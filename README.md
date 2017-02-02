@@ -1,4 +1,5 @@
 # eZ Platform I18N de_DE
+![de](https://cloud.githubusercontent.com/assets/1446466/22544452/1909fbf8-e935-11e6-9cbe-2f40406eb22b.png)
 
 ## Introduction
 
