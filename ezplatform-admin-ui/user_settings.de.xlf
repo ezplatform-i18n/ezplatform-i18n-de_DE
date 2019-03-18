@@ -41,21 +41,6 @@
         <target xml:lang="de" state="translated">Meine Einstellungen</target>
         <note>key: section.my_preferences</note>
       </trans-unit>
-      <trans-unit id="dac7ffb84bac8bc5a682388098bded0f8f49d841" resname="settings.timezone.value.description">
-        <source><![CDATA[Time Zone in use for displaying Date & Time]]></source>
-        <target xml:lang="de" state="translated"><![CDATA[Zeitzone für die Anzeige von Datum & Zeit]]></target>
-        <note>key: settings.timezone.value.description</note>
-      </trans-unit>
-      <trans-unit id="eb891d0f4283045b518a04aa757810f1ba0b90c9" resname="settings.timezone.value.title">
-        <source>Time Zone</source>
-        <target xml:lang="de" state="translated">Zeitzone</target>
-        <note>key: settings.timezone.value.title</note>
-      </trans-unit>
-      <trans-unit id="7f90e23e086f56c5f7b4a82c6e4b8f40732e6e6a" resname="user_setting.update.success">
-        <source>User setting '%identifier%' updated.</source>
-        <target xml:lang="de" state="translated">Benutzereinstellung "%identifier%" aktualisiert.</target>
-        <note>key: user_setting.update.success</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
