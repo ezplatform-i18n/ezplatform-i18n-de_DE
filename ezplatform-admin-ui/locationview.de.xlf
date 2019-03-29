@@ -174,14 +174,6 @@
           <target xml:lang="de">Content locations</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
-        <source>Hidden by superior</source>
-        <target xml:lang="de" state="translated">Versteckt durch übergeordnetes Element</target>
-        <note>key: tab.locations.hidden_by_superior</note>
-        <alt-trans>
-          <target xml:lang="de">Versteckt vom Vorgesetzten</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
         <source>Main</source>
         <target xml:lang="de" state="translated">Haupt</target>

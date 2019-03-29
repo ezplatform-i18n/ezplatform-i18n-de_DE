@@ -116,6 +116,16 @@
         <target xml:lang="de" state="translated">Datei hochladen</target>
         <note>key: fieldtype.binary_base.upload_file</note>
       </trans-unit>
+      <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
+        <source>Select from your repository</source>
+        <target xml:lang="de" state="translated">Wählen Sie aus Ihrem Repository</target>
+        <note>key: fieldtype.ezimageasset.select.label</note>
+      </trans-unit>
+      <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
+        <source>Upload image</source>
+        <target xml:lang="de" state="translated">Bild hochladen</target>
+        <note>key: fieldtype.ezimageasset.upload.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
