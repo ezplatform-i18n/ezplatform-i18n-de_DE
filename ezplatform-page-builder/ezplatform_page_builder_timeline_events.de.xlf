@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d8b3119657b27aba1cd1441c19867ace88adfa03" resname="event.description.date">
         <source>Date</source>
-        <target xml:lang="de" state="translated">Datum</target>
+        <target state="translated">Datum</target>
         <note>key: event.description.date</note>
       </trans-unit>
     </body>

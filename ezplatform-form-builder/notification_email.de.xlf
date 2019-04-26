@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="c4c1eef54c552362a25b3666b0dbda46349ad7ad" resname="notification_email.header.created_at">
         <source>Send at %datetime% </source>
-        <target xml:lang="de" state="needs-translation"> </target>
+        <target state="needs-translation"> </target>
         <note>key: notification_email.header.created_at</note>
       </trans-unit>
     </body>

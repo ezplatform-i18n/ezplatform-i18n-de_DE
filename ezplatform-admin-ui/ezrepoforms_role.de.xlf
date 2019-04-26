@@ -8,45 +8,45 @@
     <body>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Update</source>
-        <target xml:lang="de" state="translated">Aktualisieren</target>
+        <target state="translated">Aktualisieren</target>
         <note>key: policy_create.save</note>
       </trans-unit>
       <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
         <source>Update</source>
-        <target xml:lang="de" state="translated">Aktualisieren</target>
+        <target state="translated">Aktualisieren</target>
         <note>key: policy_create.update</note>
       </trans-unit>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
         <source>Delete</source>
-        <target xml:lang="de" state="translated">Löschen</target>
+        <target state="translated">Löschen</target>
         <note>key: policy_delete.delete</note>
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select locations</source>
-        <target xml:lang="de" state="translated">Locations auswählen</target>
+        <target state="translated">Locations auswählen</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select locations to use as policy limitation</source>
-        <target xml:lang="de" state="translated">Locations für Policy-Einschränkungen auswählen</target>
+        <target state="translated">Locations für Policy-Einschränkungen auswählen</target>
         <note>key: role.policy.limitation.location.udw_title</note>
         <alt-trans>
-          <target xml:lang="de">Locations für Policy Einschränkungen auswählen</target>
+          <target>Locations für Policy Einschränkungen auswählen</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
         <source>Editing limitations for '%limitationTypeIdentifier%' is not implemented yet.</source>
-        <target xml:lang="de" state="translated">Das Bearbeiten von Einschränkungen für '%limitationTypeIdentifier%' ist noch nicht implementiert.</target>
+        <target state="translated">Das Bearbeiten von Einschränkungen für '%limitationTypeIdentifier%' ist noch nicht implementiert.</target>
         <note>key: role.policy.limitation.not_implemented</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
-        <target xml:lang="de" state="translated">Typ</target>
+        <target state="translated">Typ</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target xml:lang="de" state="translated">Typ auswählen</target>
+        <target state="translated">Typ auswählen</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>

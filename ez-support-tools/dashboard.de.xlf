@@ -6,20 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="1710718593a511e351e6da36e3bb280e532bb768" resname="dashboard.ez_version.community_end_of_maintenance">
+        <source><![CDATA[Unfortunately %release% open source version has reached end of life, <a target="_blank" href="%update_url%">please upgrade</a>.]]></source>
+        <target state="translated"><![CDATA[Diese Open Source Version %release% ist leider End of Life, <a target="_blank" href="%update_url%">bitte aktualisieren</a>.]]></target>
+        <note>key: dashboard.ez_version.community_end_of_maintenance</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

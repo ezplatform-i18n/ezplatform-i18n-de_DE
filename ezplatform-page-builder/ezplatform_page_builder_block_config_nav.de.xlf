@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="dcb7d5c604f93fdc65aa4b1ff853e8ed27237f45" resname="tab.label.basic">
         <source>Basic</source>
-        <target xml:lang="de" state="translated">Basis</target>
+        <target state="translated">Basis</target>
         <note>key: tab.label.basic</note>
       </trans-unit>
       <trans-unit id="2d40f74124be77d408be57368842ef5e7bd64d98" resname="tab.label.design">
         <source>Design</source>
-        <target xml:lang="de" state="translated">Design</target>
+        <target state="translated">Design</target>
         <note>key: tab.label.design</note>
       </trans-unit>
     </body>

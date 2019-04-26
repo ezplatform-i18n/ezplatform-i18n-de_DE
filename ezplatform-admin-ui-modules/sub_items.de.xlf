@@ -8,72 +8,72 @@
     <body>
       <trans-unit id="c1ffafa700d4b0ba80a626363f9dfe853571e080" resname="bulk_delete.error.more_info">
         <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
-        <target xml:lang="de" state="needs-translation"><![CDATA[<br>]]></target>
+        <target state="needs-translation"><![CDATA[<br>]]></target>
         <note>key: bulk_delete.error.more_info</note>
       </trans-unit>
       <trans-unit id="704ee7a643332c4112613751caaf764496b8c5ac" resname="bulk_move.error.more_info">
         <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
-        <target xml:lang="de" state="needs-translation"><![CDATA[<br>]]></target>
+        <target state="needs-translation"><![CDATA[<br>]]></target>
         <note>key: bulk_move.error.more_info</note>
       </trans-unit>
       <trans-unit id="e95c7e2e8f7a1a4bb1f64cc48ca2eae0b0af78b6" resname="content_type.not_available.label">
         <source>N/A</source>
-        <target xml:lang="de" state="translated">Nicht verfügbar</target>
+        <target state="translated">Nicht verfügbar</target>
         <note>key: content_type.not_available.label</note>
       </trans-unit>
       <trans-unit id="5e1792d4a193550fe8afd9a4be6d0a8c3f6596e9" resname="edit_item_btn.label">
         <source>Edit</source>
-        <target xml:lang="de" state="translated">Bearbeiten</target>
+        <target state="translated">Bearbeiten</target>
         <note>key: edit_item_btn.label</note>
       </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title">
         <source>Sub-items</source>
-        <target xml:lang="de" state="translated">Unterelemente</target>
+        <target state="translated">Unterelemente</target>
         <note>key: items_list.title</note>
       </trans-unit>
       <trans-unit id="a72b23e13c6c44cfd6fc6661f83bc0b5e7c8a90c" resname="items_table.header.content_type">
         <source>Content type</source>
-        <target xml:lang="de" state="translated">Inhaltstyp</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: items_table.header.content_type</note>
       </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified">
         <source>Modified</source>
-        <target xml:lang="de" state="translated">Geändert</target>
+        <target state="translated">Geändert</target>
         <note>key: items_table.header.modified</note>
       </trans-unit>
       <trans-unit id="2527737a2f92308589f03f3b73fed29ef744eb50" resname="items_table.header.name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Name</target>
+        <target state="translated">Name</target>
         <note>key: items_table.header.name</note>
       </trans-unit>
       <trans-unit id="ee6e79244a03c8adceb13aa6a7aff2cb496cb9d0" resname="items_table.header.priority">
         <source>Priority</source>
-        <target xml:lang="de" state="translated">Priorität</target>
+        <target state="translated">Priorität</target>
         <note>key: items_table.header.priority</note>
       </trans-unit>
       <trans-unit id="2efb1da52dd6f25dd90474e85b5c73761adb4183" resname="items_table.header.translations">
         <source>Translations</source>
-        <target xml:lang="de" state="translated">Übersetzungen</target>
+        <target state="translated">Übersetzungen</target>
         <note>key: items_table.header.translations</note>
       </trans-unit>
       <trans-unit id="b8c369db292d50595af6db4380326dbdf549bc4b" resname="load_content_items.invalid_response_format.error.message">
         <source>Invalid response format</source>
-        <target xml:lang="de" state="translated">Ungültiges Antwort-Format</target>
+        <target state="translated">Ungültiges Antwort-Format</target>
         <note>key: load_content_items.invalid_response_format.error.message</note>
       </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
         <source>This location has no sub-items</source>
-        <target xml:lang="de" state="translated">Dieser Ort hat keine Unterelemente</target>
+        <target state="translated">Dieser Ort hat keine Unterelemente</target>
         <note>key: no_items.message</note>
       </trans-unit>
       <trans-unit id="af207d1e719904a39524b34212a1ea6116cb3d46" resname="switch_to_grid_view.btn.label">
         <source>View as grid</source>
-        <target xml:lang="de" state="translated">Als Raster anzeigen</target>
+        <target state="translated">Als Raster anzeigen</target>
         <note>key: switch_to_grid_view.btn.label</note>
       </trans-unit>
       <trans-unit id="b5bfcc24141601264b6c03972d8e45bbb7c49a09" resname="switch_to_list_view.btn.label">
         <source>View as list</source>
-        <target xml:lang="de" state="translated">Als Liste anzeigen</target>
+        <target state="translated">Als Liste anzeigen</target>
         <note>key: switch_to_list_view.btn.label</note>
       </trans-unit>
     </body>

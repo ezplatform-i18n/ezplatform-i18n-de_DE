@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="06869c8162f8a2914b5a5b10af189b8b0a532e7d" resname="language.form.delete">
         <source>Delete</source>
-        <target xml:lang="de" state="translated">Löschen</target>
+        <target state="translated">Löschen</target>
         <note>key: language.form.delete</note>
       </trans-unit>
       <trans-unit id="f471f1ba7a9fddf9bcaf869218b35fe26147a4ab" resname="language.form.save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Speichern</target>
+        <target state="translated">Speichern</target>
         <note>key: language.form.save</note>
       </trans-unit>
     </body>
