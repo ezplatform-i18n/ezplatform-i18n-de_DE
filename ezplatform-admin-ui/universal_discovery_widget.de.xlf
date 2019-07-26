@@ -26,10 +26,20 @@
         <target state="translated">Inhalt erstellen</target>
         <note>key: dashboard.create.title</note>
       </trans-unit>
+      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
+        <source>Select Image Asset</source>
+        <target state="translated">Bild-Asset auswählen</target>
+        <note>key: ezimageasset.title</note>
+      </trans-unit>
       <trans-unit id="005c6256355de38d3f5cb90b08945053ac28cf9e" resname="ezobjectrelationlist.title">
         <source>Select content</source>
         <target state="translated">Inhalt auswählen</target>
         <note>key: ezobjectrelationlist.title</note>
+      </trans-unit>
+      <trans-unit id="2d4febe56a341671c069ff47b6e6adfd2bba005c" resname="limitation.pick.error">
+        <source>Failed to fetch content names</source>
+        <target state="translated">Fehler beim Abrufen der Inhaltsnamen</target>
+        <note>key: limitation.pick.error</note>
       </trans-unit>
       <trans-unit id="56faf4ff9f2deaae1d34c1abcecae0413dc24a78" resname="move.title">
         <source>Select destination</source>
@@ -40,6 +50,11 @@
         <source>Select a location to restore you content item(s)</source>
         <target state="translated">Wählen Sie einen Ort zum Wiederherstellen der Inhaltselemente</target>
         <note>key: restore_under_new_location.title</note>
+      </trans-unit>
+      <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
+        <source>Cannot find children locations with given id - %idList%</source>
+        <target state="translated">Kann keine Orte mit der angegebenen Id finden - %idList%</target>
+        <note>key: select_location.error</note>
       </trans-unit>
       <trans-unit id="987330c357d2475b80942e5c449e4215b623a459" resname="subtree.title">
         <source>Select location</source>

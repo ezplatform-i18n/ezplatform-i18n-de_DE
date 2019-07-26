@@ -16,6 +16,11 @@
         <target state="translated">Kann nicht überprüfen, ob der Entwurf keinen Konflikt mit anderen Entwürfen hat. %error%. </target>
         <note>key: content.draft.conflict.error</note>
       </trans-unit>
+      <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
+        <source>You don't have permission to edit the content</source>
+        <target state="translated">Sie haben keine Berechtigung, den Inhalt zu bearbeiten</target>
+        <note>key: content.edit.permission.error</note>
+      </trans-unit>
       <trans-unit id="fbc24757e92f52997d730762e004765425845995" resname="content.hide.already_hidden">
         <source>Content '%name%' was already hidden.</source>
         <target state="translated">Inhalt '%name%' wurde bereits ausgeblendet.</target>

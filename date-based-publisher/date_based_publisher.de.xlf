@@ -16,6 +16,11 @@
         <target state="translated">Inhalt zur Überprüfung gesendet</target>
         <note>key: content.in_review</note>
       </trans-unit>
+      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
+        <source>Read more</source>
+        <target state="translated">Mehr lesen</target>
+        <note>key: content.publish_later.read_more</note>
+      </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content published</source>
         <target state="translated">Inhalt veröffentlicht</target>

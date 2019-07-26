@@ -16,10 +16,20 @@
         <target state="translated">Klasse</target>
         <note>key: page_builder.block_configuration.class</note>
       </trans-unit>
+      <trans-unit id="1b017f2717748a39edad826a06b7da4e7bc34b55" resname="page_builder.block_configuration.hide">
+        <source>Hide</source>
+        <target state="translated">Verstecken</target>
+        <note>key: page_builder.block_configuration.hide</note>
+      </trans-unit>
       <trans-unit id="f25907170d46ba21aa3ab7e5a401a1c38d340168" resname="page_builder.block_configuration.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: page_builder.block_configuration.name</note>
+      </trans-unit>
+      <trans-unit id="39c1b98e28909afc6445800e0a0494709f3f6d91" resname="page_builder.block_configuration.reveal">
+        <source>Reveal</source>
+        <target state="translated">Anzeigen</target>
+        <note>key: page_builder.block_configuration.reveal</note>
       </trans-unit>
       <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
         <source>Style</source>
@@ -35,6 +45,11 @@
         <source>Select content</source>
         <target state="translated">Inhalt auswählen</target>
         <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
+        <source>Schedule the visibility of this block</source>
+        <target state="translated">Planen Sie die Sichtbarkeit dieses Blocks</target>
+        <note>key: tab.scheduler.schedule_visibility</note>
       </trans-unit>
     </body>
   </file>
