@@ -11,6 +11,11 @@
         <target state="translated">Element auswählen</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
       </trans-unit>
+      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
+        <source>Select a starting location for browsing for relation</source>
+        <target state="translated">Wählen Sie eine Startposition für die Suche nach Relationen</target>
+        <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
+      </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
         <source>Select location</source>
         <target state="translated">Location auswählen</target>

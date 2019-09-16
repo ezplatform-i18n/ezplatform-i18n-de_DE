@@ -6,16 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="35e03083bfdfafc073cf343c74385bec3945b4ac" resname="bulk_delete.error.message">
-        <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
-        <target state="translated">%notDeletedCount% von %totalCount% ausgewählten Elements(en) könnte(n) nicht gelöscht werden, da Sie keine ordnungsgemäßen Benutzerrechte besitzen. {{ moreInformationLink }} Bitte kontaktieren Sie Ihren Administrator, um Berechtigungen zu erhalten.</target>
-        <note>key: bulk_delete.error.message</note>
-      </trans-unit>
-      <trans-unit id="23c9d6861623cc0b2f5f454afa841f1e368123cc" resname="bulk_delete.error.modal.table_title">
-        <source>Content item(s) cannot be sent to trash (%itemsCount%)</source>
-        <target state="translated">Inhaltselement(e) kann nicht in Papierkorb gelegt werden (%itemsCount%)</target>
-        <note>key: bulk_delete.error.modal.table_title</note>
-      </trans-unit>
       <trans-unit id="c1ffafa700d4b0ba80a626363f9dfe853571e080" resname="bulk_delete.error.more_info">
         <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
         <target state="translated"><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Klicke hier für weitere Informationen.</a></u><br>]]></target>
@@ -25,21 +15,6 @@
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
         <note>key: bulk_delete.popup.cancel</note>
-      </trans-unit>
-      <trans-unit id="a668a561527cc0e3e2c7952fbf300558d9d4f877" resname="bulk_delete.popup.confirm">
-        <source>Send to trash</source>
-        <target state="translated">In Papierkorb verschieben</target>
-        <note>key: bulk_delete.popup.confirm</note>
-      </trans-unit>
-      <trans-unit id="02d93b03435046c6bcf08ce15ae7970f7ff8f746" resname="bulk_delete.popup.message">
-        <source>Are you sure you want to send the selected content item(s) to trash?</source>
-        <target state="translated">Sind Sie sicher, dass Sie den ausgewählten Inhalt(en) in den Papierkorb schicken möchten?</target>
-        <note>key: bulk_delete.popup.message</note>
-      </trans-unit>
-      <trans-unit id="684c07e2248d815e6eb6bc3f92d3cd49c6952cbe" resname="bulk_delete.success.message">
-        <source>The selected content item(s) have been sent to trash</source>
-        <target state="translated">Der ausgewählte Inhalt(n) wurde in den Papierkorb geschoben</target>
-        <note>key: bulk_delete.success.message</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
         <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
