@@ -51,6 +51,11 @@
         <target state="translated">Rechtsbündig</target>
         <note>key: blocktext_align_right_btn.label</note>
       </trans-unit>
+      <trans-unit id="da43e66d744de44f705d4f8e512c3a5905d62e2d" resname="custom_attributes_update_btn.save_btn.label">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: custom_attributes_update_btn.save_btn.label</note>
+      </trans-unit>
       <trans-unit id="3b4cdbba9b4d4209e8c826b072589dab7497fa46" resname="custom_tag_update_btn.save_btn.label">
         <source>Save</source>
         <target state="translated">Speichern</target>
@@ -200,6 +205,11 @@
         <source>Remove block</source>
         <target state="translated">Block entfernen</target>
         <note>key: remove_block_btn.title</note>
+      </trans-unit>
+      <trans-unit id="b54e4890869a4f4e1ec7065a38f1e9c8b9e8cf3d" resname="removed_content.label">
+        <source>Removed</source>
+        <target state="translated">Gelöscht</target>
+        <note>key: removed_content.label</note>
       </trans-unit>
       <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
         <source>Table</source>

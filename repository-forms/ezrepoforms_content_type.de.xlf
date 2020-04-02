@@ -13,13 +13,19 @@
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
         <source>Create a content type</source>
-        <target state="translated">Neuen Content-Typ erstellen</target>
+        <target state="translated">Neuen Inhaltstyp erstellen</target>
         <note>key: content_type.create</note>
+        <alt-trans>
+          <target>Neuen Content-Typ erstellen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
         <source>Default content availability</source>
-        <target state="translated">Standard Content verfügbarkeit</target>
+        <target state="translated">Standard-Inhaltsverfügbarkeit</target>
         <note>key: content_type.default_always_available</note>
+        <alt-trans>
+          <target>Standard Content verfügbarkeit</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
         <source>Default field for sorting children</source>
@@ -43,13 +49,19 @@
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
         <source>Content field definitions</source>
-        <target state="translated">Content Felder Definitionen</target>
+        <target state="translated">Inhaltsfeld Definitionen</target>
         <note>key: content_type.field_definitions_data</note>
+        <alt-trans>
+          <target>Content Felder Definitionen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
         <source>Field type selection</source>
-        <target state="translated">Feldtypen Auswahl</target>
+        <target state="translated">Feldtypauswahl</target>
         <note>key: content_type.field_type_selection</note>
+        <alt-trans>
+          <target>Feldtypen Auswahl</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
@@ -83,8 +95,11 @@
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
         <source>Content name pattern</source>
-        <target state="translated">Content Namensschema</target>
+        <target state="translated">Inhalt Namensschema</target>
         <note>key: content_type.name_schema</note>
+        <alt-trans>
+          <target>Content Namensschema</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
         <source>OK</source>
@@ -98,8 +113,11 @@
       </trans-unit>
       <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions">
         <source>Remove selected field definitions</source>
-        <target state="translated">Entfernen der ausgewählten Felddefinitionen</target>
+        <target state="translated">Ausgewählte Felddefinitionen entfernen</target>
         <note>key: content_type.remove_field_definitions</note>
+        <alt-trans>
+          <target>Entfernen der ausgewählten Felddefinitionen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
         <source>Apply</source>
@@ -475,6 +493,21 @@
         <source>Password must contain at least one uppercase letter</source>
         <target state="translated">Passwort muss mindestens einen Großbuchstaben enthalten</target>
         <note>key: field_definition.ezuser.require_at_least_one_upper_case_character</note>
+      </trans-unit>
+      <trans-unit id="b3a4113222154dde9c8d136f4bea80217129b739" resname="field_definition.ezuser.password_ttl">
+        <source>Days before password expires</source>
+        <target state="translated">Tage vor Ablauf des Passworts</target>
+        <note>key: field_definition.ezuser.password_ttl</note>
+      </trans-unit>
+      <trans-unit id="cd2c70b2a3594f4de7adca0e84da6f106790ae8c" resname="field_definition.ezuser.password_ttl_warning">
+        <source>Days before a user is notified about expiration</source>
+        <target state="translated">Tage bevor ein Benutzer über Ablauf benachrichtigt wird</target>
+        <note>key: field_definition.ezuser.password_ttl_warning</note>
+      </trans-unit>
+      <trans-unit id="c196b953a8bc8966aeeb771c2c9e653bbe8062bb" resname="field_definition.ezuser.require_new_password">
+        <source>Prevent reusing old password</source>
+        <target state="translated">Wiederverwenden des alten Passwots verhindern</target>
+        <note>key: field_definition.ezuser.require_new_password</note>
       </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
         <source>Category</source>
