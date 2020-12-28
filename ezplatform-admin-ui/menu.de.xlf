@@ -60,9 +60,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: content_create__sidebar_right__save_draft</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
         <source>Delete draft</source>
@@ -83,9 +80,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -106,9 +100,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: content_type_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ccdcdc5c7e006c865c33b29eee9c6b9e232a9308" resname="content_type_group_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -129,9 +120,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: content_type_group_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -152,17 +140,11 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: language_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
         <target state="translated">Inhaltstypen</target>
         <note>key: main__admin__content_types</note>
-        <alt-trans>
-          <target>Content-Typen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
         <source>Languages</source>
@@ -204,11 +186,6 @@
         <target state="translated">Inhaltstruktur</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
-      <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
-        <source>Link Manager</source>
-        <target state="translated">Link Verwaltung</target>
-        <note>key: main__content__linkmanager</note>
-      </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
         <target state="translated">Medien</target>
@@ -238,9 +215,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: object_state_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6d0d5ef21648f88e82cdd49203e02eb897d55290" resname="object_state_group_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -261,9 +235,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: object_state_group_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bd668569e3e19db4ee8d34e4008f9bfceaad437b" resname="policy_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -279,9 +250,6 @@
         <source>Discard changes</source>
         <target state="translated">Änderungen verwerfen</target>
         <note>key: policy_edit__sidebar_right__cancel</note>
-        <alt-trans>
-          <target>Verwerfen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cb47e2c35d152c762cc9923eed5ca55bad4a1d8f" resname="policy_edit__sidebar_right__save">
         <source>Update</source>
@@ -297,9 +265,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: role_assignment_create__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -320,9 +285,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: role_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="118456f08e78dac2945c59eb317427f1abb88c3b" resname="section_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -343,9 +305,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: section_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
         <source>Bookmarks</source>
@@ -366,9 +325,6 @@
         <source>Trash</source>
         <target state="translated">Papierkorb</target>
         <note>key: sidebar_left__trash</note>
-        <alt-trans>
-          <target>Mülleimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
         <source>Empty Trash</source>
@@ -384,9 +340,6 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: url_edit__sidebar_right__save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
         <source>Bookmarks</source>

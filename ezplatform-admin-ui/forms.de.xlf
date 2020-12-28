@@ -70,9 +70,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: ezplatform.language.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ffd97ca1026795d6942cdff21e76596229baa2dd" resname="ezplatform.language.create.save">
         <source>Create</source>
@@ -93,17 +90,11 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: ezplatform.language.update.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="87ed807e48a8c3fc19eba5338ddbaa91df68d19d" resname="ezplatform.language.update.save">
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: ezplatform.language.update.save</note>
-        <alt-trans>
-          <target>Entwurf speichern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="877b8a2a4e3b2c7c137b7776a54cd7531421e5d3" resname="ezplatform.reset_user_password.confirm_new_password">
         <source>Confirm password</source>
@@ -494,9 +485,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: role_create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="776c77290a994aebb3c657ee11dd2c5cff117dca" resname="role_create.save">
         <source>Create</source>
@@ -512,9 +500,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: role_update.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="453d030fbc11c10c842807ff213039adfffbe051" resname="role_update.save">
         <source>Update</source>
@@ -550,9 +535,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: section_form.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
         <source>Update</source>

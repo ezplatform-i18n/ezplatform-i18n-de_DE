@@ -6,10 +6,40 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
+        <source>Created a new draft for '%name%'.</source>
+        <target state="translated">Neuer Entwurf für '%name%' erstellt</target>
+        <note>key: content.create_draft.success</note>
+      </trans-unit>
+      <trans-unit id="1ea2690f8ebd8fc99115a6f94ac56b8b93e46afe" resname="content.draft.conflict.error">
+        <source>Cannot check if the draft has conflicts with other drafts. %error%.</source>
+        <target state="translated">Es kann nicht überprüft werden, on der Entwurf mit anderen Entwürfen kollidiert. '%error%'.</target>
+        <note>key: content.draft.conflict.error</note>
+      </trans-unit>
+      <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
+        <source>You don't have permission to edit this Content item</source>
+        <target state="translated">Sie haben keine Berechtigung, den Inhalt zu bearbeiten</target>
+        <note>key: content.edit.permission.error</note>
+      </trans-unit>
+      <trans-unit id="fbc24757e92f52997d730762e004765425845995" resname="content.hide.already_hidden">
+        <source>Content item '%name%' is already hidden.</source>
+        <target state="translated">Der Inhalt '%name%' wurde bereits ausgeblendet.</target>
+        <note>key: content.hide.already_hidden</note>
+      </trans-unit>
+      <trans-unit id="7a80db58ea3f3bef5b9f07c4565d715efdacda99" resname="content.hide.success">
+        <source>Content item '%name%' hidden.</source>
+        <target state="translated">Inhalt '%name%' wurde bereits ausgeblendet.</target>
+        <note>key: content.hide.success</note>
+      </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success">
         <source>Main language for '%name%' updated.</source>
         <target state="translated">Hauptsprache für '%name%' aktualisiert.</target>
         <note>key: content.main_language_update.success</note>
+      </trans-unit>
+      <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success">
+        <source>Main Location for '%name%' updated.</source>
+        <target state="translated">Ort für '%name%' aktualisiert.</target>
+        <note>key: content.main_location_update.success</note>
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success">
         <source>User with login '%login%' deleted.</source>

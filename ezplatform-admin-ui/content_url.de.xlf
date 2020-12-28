@@ -35,9 +35,6 @@
         <source>Close</source>
         <target state="translated">Schließen</target>
         <note>key: tab.urls.modal_close</note>
-        <alt-trans>
-          <target>Schliessen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="902beb4ac170382cb95bd554cb1e763d8fdd413c" resname="tab.urls.system.title">
         <source>System URL</source>

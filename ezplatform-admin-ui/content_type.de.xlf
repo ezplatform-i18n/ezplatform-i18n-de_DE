@@ -15,9 +15,6 @@
         <source>Creating a new Content Type</source>
         <target state="translated">Erstelle einen neuen Inhaltstyp</target>
         <note>key: content_type.breadcrumb.create</note>
-        <alt-trans>
-          <target>Neuen Content Typ erstellen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
         <source>%identifier%</source>
@@ -33,9 +30,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: content_type.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -47,26 +41,60 @@
         <target state="translated">Globale Eigenschaften</target>
         <note>key: content_type.global_properties</note>
       </trans-unit>
+      <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: content_type.group.save</note>
+      </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
         <source>Identifier</source>
         <target state="translated">Bezeichner</target>
         <note>key: content_type.identifier</note>
       </trans-unit>
+      <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
+        <source>Container</source>
+        <target state="translated">Container</target>
+        <note>key: content_type.is_container</note>
+      </trans-unit>
+      <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
+        <source>Do you want to delete the Content Type?</source>
+        <target state="translated">Soll der Eintrag gelöscht werden?</target>
+        <note>key: content_type.modal.message</note>
+      </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: content_type.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
         <source>Content name pattern</source>
         <target state="translated">Inhalt Namensschema</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Content Namensschema</target>
-        </alt-trans>
+      </trans-unit>
+      <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
+        <source>OK</source>
+        <target state="translated">OK</target>
+        <note>key: content_type.publish</note>
+      </trans-unit>
+      <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: content_type.remove_draft</note>
+      </trans-unit>
+      <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
+        <source>Apply</source>
+        <target state="translated">Anwenden</target>
+        <note>key: content_type.save</note>
+      </trans-unit>
+      <trans-unit id="4cdfd30bdc30f263b30713d22f714ad46beb120b" resname="content_type.sort_field.2">
+        <source>Publication date</source>
+        <target state="translated">Veröffentlichungsdatum</target>
+        <note>key: content_type.sort_field.2</note>
+      </trans-unit>
+      <trans-unit id="3b367aa1610d6332d66b2113a1b1ed287e0310a6" resname="content_type.sort_field.3">
+        <source>Modification date</source>
+        <target state="translated">Änderungsdatum</target>
+        <note>key: content_type.sort_field.3</note>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
@@ -77,17 +105,11 @@
         <source>Content ID</source>
         <target state="translated">Content ID</target>
         <note>key: content_type.sort_field.content_id</note>
-        <alt-trans>
-          <target>Content-ID</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target state="translated">Ort Tiefe</target>
         <note>key: content_type.sort_field.depth</note>
-        <alt-trans>
-          <target>Location Tiefe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="09b31f9371d7512e3c5663053b0dc5ce781f696c" resname="content_type.sort_field.descending">
         <source>Descending</source>
@@ -103,33 +125,21 @@
         <source>Location path</source>
         <target state="translated">Ort Pfad</target>
         <note>key: content_type.sort_field.location_path</note>
-        <alt-trans>
-          <target>Location Pfad</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8acac47605156b70e1d654c98b3b65b982e00db7" resname="content_type.sort_field.modified">
         <source>Modification date</source>
         <target state="translated">Änderungsdatum</target>
         <note>key: content_type.sort_field.modified</note>
-        <alt-trans>
-          <target>Geändert</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3fd95b45be04d6ae42d3eb82114c65e474f1d4ce" resname="content_type.sort_field.name">
         <source>Content name</source>
         <target state="translated">Inhaltsname</target>
         <note>key: content_type.sort_field.name</note>
-        <alt-trans>
-          <target>Inhalts-Name</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac2b24b167723165d67f63e17b0d4fa9faf081c0" resname="content_type.sort_field.priority">
         <source>Location priority</source>
         <target state="translated">Ort Priorität</target>
         <note>key: content_type.sort_field.priority</note>
-        <alt-trans>
-          <target>Location priorität</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c51d29f35f4f8eb46b61904f4ab198a234b30dfc" resname="content_type.sort_field.published">
         <source>Publication date</source>
@@ -160,9 +170,11 @@
         <source>Creating a new Content Type</source>
         <target state="translated">Erstelle einen neuen Inhaltstyp</target>
         <note>key: content_type.view.create.title</note>
-        <alt-trans>
-          <target>Neuen Content Typ erstellen</target>
-        </alt-trans>
+      </trans-unit>
+      <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
+        <source>Field definitions</source>
+        <target state="translated">Felddefinitionen</target>
+        <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
         <source>Global properties</source>
@@ -173,17 +185,11 @@
         <source>Create a Content Type</source>
         <target state="translated">Neuen Inhaltstyp erstellen</target>
         <note>key: content_type.view.list.action.add</note>
-        <alt-trans>
-          <target>Neuen Content-Typ erstellen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
         <source>Delete Content Type</source>
         <target state="translated">Inhaltstyp löschen</target>
         <note>key: content_type.view.list.action.delete</note>
-        <alt-trans>
-          <target>Content-Typ löschen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -199,25 +205,16 @@
         <source>Modification date</source>
         <target state="translated">Änderungsdatum</target>
         <note>key: content_type.view.list.column.modification_date</note>
-        <alt-trans>
-          <target>Geändert</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="288545756241beae1bdb8aa600b829506bb7acaf" resname="content_type.view.list.column.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: content_type.view.list.column.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target state="translated">Inhaltstypen</target>
         <note>key: content_type_group.breadcrumb.list</note>
-        <alt-trans>
-          <target>Content-Typen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
@@ -228,9 +225,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: content_type_group.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b04a9c80f0219d1a12813a8aa4bc532e97653b28" resname="content_type_group.create.submit">
         <source>Create</source>
@@ -246,9 +240,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: content_type_group.update.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
         <source>Update</source>
@@ -269,9 +260,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: content_type_group.view.list.column.identifier</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
         <source>%identifier%</source>

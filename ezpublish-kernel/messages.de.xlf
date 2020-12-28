@@ -11,9 +11,6 @@
         <target state="translated">Geben Sie Ihr Login oder Ihre E-Mail ein</target>
         <note>key: Enter login or email</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Geben Sie Login oder e-Mail</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password">
         <source>Enter password</source>

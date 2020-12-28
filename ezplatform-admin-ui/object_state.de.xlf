@@ -20,9 +20,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a09f3880fa454b1445b72488509cd05e68acd2e6" resname="object_state.create.submit">
         <source>Create</source>
@@ -63,9 +60,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state.update.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17a0ecad5fb1c32a36bbc7ffc406f9797cd73896" resname="object_state.update.submit">
         <source>Save</source>
@@ -96,9 +90,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state_group.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fbca6e1bbb6f1b3ba0ed71a55eba49d24820bfe0" resname="object_state_group.create.submit">
         <source>Create</source>

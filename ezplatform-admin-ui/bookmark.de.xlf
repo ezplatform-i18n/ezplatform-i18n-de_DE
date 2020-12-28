@@ -15,17 +15,11 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: bookmark.list.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: bookmark.list.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fa0e2c8d987f0282f85003e05398c602de5da17b" resname="bookmark.list.path">
         <source>Path</source>

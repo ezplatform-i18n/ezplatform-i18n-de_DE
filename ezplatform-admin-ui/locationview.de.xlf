@@ -20,9 +20,6 @@
         <source>Sub-items</source>
         <target state="translated">Unterelemente</target>
         <note>key: content.view.subitems</note>
-        <alt-trans>
-          <target>Sub-items</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
@@ -43,9 +40,6 @@
         <source>Content details</source>
         <target state="translated">Inhalt Details</target>
         <note>key: tab.details.content_details</note>
-        <alt-trans>
-          <target>Inhaltsdetails</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
         <source>Content ID</source>
@@ -66,9 +60,6 @@
         <source>Last contributor</source>
         <target state="translated">Letzter Beitragender</target>
         <note>key: tab.details.last_contributor</note>
-        <alt-trans>
-          <target>Letzter Autor</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
@@ -89,9 +80,6 @@
         <source>Section details</source>
         <target state="translated">Sektion Details</target>
         <note>key: tab.details.section_details</note>
-        <alt-trans>
-          <target>Section Details</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
         <source>Section name</source>
@@ -127,9 +115,6 @@
         <source>Add Location</source>
         <target state="translated">Ort hinzufügen</target>
         <note>key: tab.locations.action.add</note>
-        <alt-trans>
-          <target>Location hinzufügen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete Location</source>
@@ -150,9 +135,6 @@
         <source>Sub-items</source>
         <target state="translated">Unterelemente</target>
         <note>key: tab.locations.subitems</note>
-        <alt-trans>
-          <target>Sub-items</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
         <source>Visibility</source>
@@ -208,25 +190,16 @@
         <source>Content type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: tab.relations.table.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e649f067bcea898ef987cd5ebce6a9a6fca570f2" resname="tab.relations.table.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: tab.relations.table.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="06422c0c484b663ec929d1049a228a26b9d48476" resname="tab.relations.table.relation_type">
         <source>Relation type</source>
         <target state="translated">Verknüpfung Typ</target>
         <note>key: tab.relations.table.relation_type</note>
-        <alt-trans>
-          <target>Relation Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d8360b13746f836dc7c28998696a69b24ea30b18" resname="tab.relations.table.relation_type.content_level_relation">
         <source>Content level relation</source>
@@ -237,9 +210,6 @@
         <source>Embed</source>
         <target state="translated">Eingebettet</target>
         <note>key: tab.relations.table.relation_type.embed</note>
-        <alt-trans>
-          <target>Embed</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9a9a16a9516cdda3bc3213bbdf77a02ff04b8fc8" resname="tab.relations.table.relation_type.field">
         <source>Field</source>
@@ -260,9 +230,6 @@
         <source>Base this translation on an existing translation</source>
         <target state="translated">Diese Übersetzung auf einer bestehenden Übersetzung basieren</target>
         <note>key: tab.translations.add.base_language</note>
-        <alt-trans>
-          <target>Diese Übersetzung auf eine bestehende Übersetzung stützen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
         <source>Cancel</source>
@@ -308,17 +275,11 @@
         <source>Created</source>
         <target state="translated">Erstellt</target>
         <note>key: tab.versions.table.created</note>
-        <alt-trans>
-          <target>Erzeugt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">
         <source>Last saved</source>
         <target state="translated">Zuletzt gespeichert</target>
         <note>key: tab.versions.table.last_saved</note>
-        <alt-trans>
-          <target>Letzte Speicherung</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
         <source>Modified language</source>

@@ -16,11 +16,6 @@
         <target state="translated">Bild-Asset auswählen</target>
         <note>key: ezimageasset.title</note>
       </trans-unit>
-      <trans-unit id="005c6256355de38d3f5cb90b08945053ac28cf9e" resname="ezobjectrelationlist.title">
-        <source>Select content</source>
-        <target state="translated">Inhalt auswählen</target>
-        <note>key: ezobjectrelationlist.title</note>
-      </trans-unit>
       <trans-unit id="56faf4ff9f2deaae1d34c1abcecae0413dc24a78" resname="move.title">
         <source>Select destination</source>
         <target state="translated">Ziel auswählen</target>

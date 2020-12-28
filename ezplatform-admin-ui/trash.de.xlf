@@ -10,9 +10,6 @@
         <source>Trash</source>
         <target state="translated">Papierkorb</target>
         <note>key: trash</note>
-        <alt-trans>
-          <target>Mülleimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="49df4e6f73344ab17f4dfd94818974848f74f53a" resname="trash.button.restore">
         <source>Restore</source>
@@ -28,9 +25,6 @@
         <source>Trash</source>
         <target state="translated">Papierkorb</target>
         <note>key: trash.headline</note>
-        <alt-trans>
-          <target>Mülleimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
         <source>Ancestor is in the Trash</source>
@@ -41,22 +35,11 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: trash.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">
         <source>Trash</source>
         <target state="translated">Papierkorb</target>
         <note>key: trash.table.header</note>
-        <alt-trans>
-          <target>Mülleimer</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="04098b87c58e41ab39820db75eee1d13856f9616" resname="trash.type">
-        <source>Type</source>
-        <target state="translated">Typ</target>
-        <note>key: trash.type</note>
       </trans-unit>
     </body>
   </file>

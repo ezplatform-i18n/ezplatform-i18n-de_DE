@@ -75,17 +75,11 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: language.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e033c3bb99a4c1b19b1aaa80c637751afe1f474d" resname="language.name.label">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: language.name.label</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fba43c054072899f63d3e09cfd9f0a07d8768234" resname="language.update.success">
         <source>Language '%name%' updated.</source>

@@ -20,9 +20,6 @@
         <source>Content ID: %contentId%</source>
         <target state="translated">Content ID: %contentId%</target>
         <note>key: content_id</note>
-        <alt-trans>
-          <target>Content-ID: %contentId%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="71a8aeb31196db647608ffe1789be9400d61451d" resname="created_by">
         <source>Created by %name%</source>

@@ -90,9 +90,6 @@
         <source>Size</source>
         <target state="translated">Größe</target>
         <note>key: ezimageasset.size</note>
-        <alt-trans>
-          <target>Dateigröße</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="84c1e46564bf281d22c3b554a0af412a8bbbdacc" resname="ezmedia.browser_does_not_support_html5_video">
         <source>Your browser does not support HTML5 video</source>
@@ -133,9 +130,6 @@
         <source>Video file properties</source>
         <target state="translated">Video-Datei Eigenschaften</target>
         <note>key: ezmedia.video_file_properties</note>
-        <alt-trans>
-          <target>Video-Datei-Eigenschaften</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2f9f973623d548ff2cac08afcd1de234bd2493c8" resname="ezmedia.yes">
         <source>Yes</source>
@@ -146,25 +140,16 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelation.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="79f0c6856a30e0436b61aa28cfc859df8289edfb" resname="ezobjectrelation.created">
         <source>Created</source>
         <target state="translated">Erstellt</target>
         <note>key: ezobjectrelation.created</note>
-        <alt-trans>
-          <target>Erzeugt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: ezobjectrelation.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bd321e94e97034129cf78323f54e93c782250971" resname="ezobjectrelation.single_relation">
         <source>Single relation</source>
@@ -175,17 +160,11 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelationlist.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
         <source>Created</source>
         <target state="translated">Erstellt</target>
         <note>key: ezobjectrelationlist.created</note>
-        <alt-trans>
-          <target>Erzeugt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac6f4439a9d7e655920f9789346d6c928182127e" resname="ezobjectrelationlist.multiple_relations">
         <source>Multiple relations</source>
@@ -196,9 +175,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: ezobjectrelationlist.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">
         <source>Email</source>

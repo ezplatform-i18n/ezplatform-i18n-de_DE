@@ -10,9 +10,6 @@
         <source>New %contentType%</source>
         <target state="translated">Neue/er/es %contentType%</target>
         <note>key: new_content_item</note>
-        <alt-trans>
-          <target>Neu %contentType%</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
