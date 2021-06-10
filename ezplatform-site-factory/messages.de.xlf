@@ -6,20 +6,76 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
+        <source>Admin</source>
+        <target state="translated">Administrator</target>
+        <note>key: breadcrumb.admin</note>
+      </trans-unit>
+      <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
+        <source>Delete</source>
+        <target state="translated">Löschen</target>
+        <note>key: delete</note>
+      </trans-unit>
+      <trans-unit id="f2b182ac0f78d68d059e24c6d0364dac9bba1f79" resname="site.action.domain">
+        <source>Open link in browser</source>
+        <target state="translated">Link im Browser öffnen</target>
+        <note>key: site.action.domain</note>
+      </trans-unit>
+      <trans-unit id="81bd5dd3c979d2e3105c77611ce12b16882c4c19" resname="site.label.actions">
+        <source>Actions</source>
+        <target state="translated">Aktionen</target>
+        <note>key: site.label.actions</note>
+      </trans-unit>
+      <trans-unit id="d578e1f85cbd8df68aebb09e488a60d2869f467e" resname="site.label.created">
+        <source>Created</source>
+        <target state="translated">Erstellt</target>
+        <note>key: site.label.created</note>
+      </trans-unit>
+      <trans-unit id="b1d61ef9df17aed58ac638a002b77ae0339315bc" resname="site.label.domains">
+        <source>Domains</source>
+        <target state="translated">Domänen</target>
+        <note>key: site.label.domains</note>
+      </trans-unit>
+      <trans-unit id="2e615a5fd6dfb27060236fbda119f04a58b5fcc0" resname="site.label.main_languages">
+        <source>Main languages</source>
+        <target state="translated">Hauptsprachen</target>
+        <note>key: site.label.main_languages</note>
+      </trans-unit>
+      <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
+        <source>Name</source>
+        <target state="translated">Name</target>
+        <note>key: site.label.name</note>
+      </trans-unit>
+      <trans-unit id="d6f2b314ec4b5a99492d686dd9bb96692c20b093" resname="site.list.action.delete">
+        <source>Delete Site</source>
+        <target state="translated">Site löschen</target>
+        <note>key: site.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="9c4befbbe23d5f95db84568be39e30a6c9479881" resname="site.list.no_sites">
+        <source>-</source>
+        <target state="translated">-</target>
+        <note>key: site.list.no_sites</note>
+      </trans-unit>
+      <trans-unit id="25638252c36c08f88974b99ac4fb484b52b168b8" resname="site.list.title">
+        <source>Sites (%count%)</source>
+        <target state="translated">Sites (%count%)</target>
+        <note>key: site.list.title</note>
+      </trans-unit>
+      <trans-unit id="f2f1dd53787cf1ab3289b6c1f1aa4c9b0ead41e4" resname="site.locked">
+        <source>Edit the site in config files</source>
+        <target state="translated">Bearbeiten Sie die Site in Konfigurationsdateien</target>
+        <note>key: site.locked</note>
+      </trans-unit>
+      <trans-unit id="fd695d5f1aa4bd7efd0ac256a6cfe7b2de8618f9" resname="site.modal.message">
+        <source>Do you want to delete the Site(s)?</source>
+        <target state="translated">Möchten Sie die Site (s) löschen?</target>
+        <note>key: site.modal.message</note>
+      </trans-unit>
+      <trans-unit id="82a01b0f37a300f0ac1558c79115b5c635a88fc9" resname="site.page_builder">
+        <source>Jump to Page Builder</source>
+        <target state="translated">Zum Seitenersteller springen</target>
+        <note>key: site.page_builder</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

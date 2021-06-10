@@ -21,6 +21,11 @@
         <target state="translated">Löschen</target>
         <note>key: delete.label</note>
       </trans-unit>
+      <trans-unit id="2b1c547a8eeb8b7c83a9580901c66193cbcb0eb9" resname="disallowed_content_type.message">
+        <source>You do not have permission to create this Content item</source>
+        <target state="translated">Sie haben keine Berechtigung zum Erstellen dieses Inhaltselements</target>
+        <note>key: disallowed_content_type.message</note>
+      </trans-unit>
       <trans-unit id="f2a2dab7435a694af5f4e9d2393e3cfb9c9c79f0" resname="disallowed_size.message">
         <source>File size is not allowed</source>
         <target state="translated">Dateigröße nicht erlaubt</target>
@@ -30,6 +35,11 @@
         <source>File type is not allowed</source>
         <target state="translated">Dateityp nicht erlaubt</target>
         <note>key: disallowed_type.message</note>
+      </trans-unit>
+      <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
+        <source>Drag your files to the browser window or select them</source>
+        <target state="translated">Ziehen Sie Ihre Dateien in das Browserfenster oder wählen Sie sie aus</target>
+        <note>key: drop_action.message</note>
       </trans-unit>
       <trans-unit id="ec408ab37730af3a79d49ee278f3b215ce89057c" resname="edit.label">
         <source>Edit</source>
@@ -55,6 +65,11 @@
         <source>Upload sub-items</source>
         <target state="translated">Unterelemente hochladen</target>
         <note>key: upload_btn.label</note>
+      </trans-unit>
+      <trans-unit id="6b2bc429ffc374b49b5de9e3563d3d5a7668e4b2" resname="upload_popup.close">
+        <source>Multi-file upload</source>
+        <target state="translated">Upload mehrerer Dateien</target>
+        <note>key: upload_popup.close</note>
       </trans-unit>
     </body>
   </file>

@@ -11,11 +11,6 @@
         <target state="translated">Inhalt auswählen</target>
         <note>key: action.redirect.udw.title</note>
       </trans-unit>
-      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
-        <source>Create a form</source>
-        <target state="translated">Formular erstellen</target>
-        <note>key: create.form</note>
-      </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
         <source>Remove</source>
         <target state="translated">Entfernen</target>

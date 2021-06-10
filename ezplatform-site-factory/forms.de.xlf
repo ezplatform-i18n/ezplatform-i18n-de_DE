@@ -6,7 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
+      <trans-unit id="a8d7b699ad107714b45a187ad38744491b998bee" resname="sites_delete_form.delete">
+        <source>Delete Sites</source>
+        <target state="translated">Sites löschen</target>
+        <note>key: sites_delete_form.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

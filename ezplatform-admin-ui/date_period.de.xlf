@@ -6,10 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
+      <trans-unit id="0ac7da8daa098a033372ecce6f1eb4743132cd79" resname="date_period_choice.custom_range">
+        <source>Custom range</source>
+        <target state="translated">Eigener Bereich</target>
+        <note>key: date_period_choice.custom_range</note>
+      </trans-unit>
+      <trans-unit id="4f885cc7e7d18dcfa00e7a41654d816c4ec79555" resname="date_period_choice.last_month">
+        <source>Last month</source>
+        <target state="translated">Letzten Monat</target>
+        <note>key: date_period_choice.last_month</note>
+      </trans-unit>
+      <trans-unit id="bd0f9bebdc65d9aec2293cfec265034ee4140c49" resname="date_period_choice.last_week">
+        <source>Last week</source>
+        <target state="translated">Letzte Woche</target>
+        <note>key: date_period_choice.last_week</note>
+      </trans-unit>
+      <trans-unit id="e81c756136a15ecb6125f894203ba819ac6a684f" resname="date_period_choice.last_year">
+        <source>Last year</source>
+        <target state="translated">Letztes Jahr</target>
+        <note>key: date_period_choice.last_year</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

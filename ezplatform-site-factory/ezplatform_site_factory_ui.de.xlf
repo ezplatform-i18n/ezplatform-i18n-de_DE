@@ -6,9 +6,21 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
+      <trans-unit id="7f5b557877d0f5c0f1edc65368efcdfe472df3d8" resname="form.validate.error">
+        <source>%fieldName% Field is required</source>
+        <target state="translated">% fieldName% Field ist erforderlich</target>
+        <note>key: form.validate.error</note>
+      </trans-unit>
+      <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">
+        <source>Please add a correct public access</source>
+        <target state="translated">Bitte fügen Sie einen korrekten öffentlichen Zugang hinzu</target>
+        <note>key: form.validate.error.public.access</note>
+      </trans-unit>
+      <trans-unit id="7e0434aa2c4a65dd83160b9c9bf0fe9d7493eae2" resname="select_location.label">
+        <source>Choose Location</source>
+        <target state="translated">Standort auswählen</target>
+        <note>key: select_location.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

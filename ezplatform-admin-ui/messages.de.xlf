@@ -11,6 +11,31 @@
         <target state="translated">Schließen</target>
         <note>key: alert.close</note>
       </trans-unit>
+      <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
+        <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
+        <target state="translated">Ihr aktuelles Passwort läuft in% Tagen% Tag (en) ab. Sie können es in den Benutzereinstellungen / Meine Kontoeinstellungen ändern.</target>
+        <note>key: authentication.credentials_expire_in.warning</note>
+      </trans-unit>
+      <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
+        <source>Your current password will expire today. You can change it in User Settings/My Account Settings.</source>
+        <target state="translated">Ihr aktuelles Passwort läuft heute ab. Sie können es in den Benutzereinstellungen / Meine Kontoeinstellungen ändern.</target>
+        <note>key: authentication.credentials_expire_today.warning</note>
+      </trans-unit>
+      <trans-unit id="c9a7a0dd7518550634ea6873dcc815d4ec30c1e2" resname="authentication.credentials_expired">
+        <source>Your password has expired.</source>
+        <target state="translated">Dein Passwort ist abgelaufen.</target>
+        <note>key: authentication.credentials_expired</note>
+      </trans-unit>
+      <trans-unit id="be4c13cda3e93a1e8cb05145c0dc6c3780c40c66" resname="authentication.credentials_expired.message">
+        <source>Your password has expired and must be changed. You will receive an email with instructions how to reset your password.</source>
+        <target state="translated">Ihr Passwort ist abgelaufen und muss geändert werden. Sie erhalten eine E-Mail mit Anweisungen zum Zurücksetzen Ihres Passworts.</target>
+        <note>key: authentication.credentials_expired.message</note>
+      </trans-unit>
+      <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
+        <source>Reset password</source>
+        <target state="translated">Passwort zurücksetzen</target>
+        <note>key: authentication.credentials_expired.reset_password</note>
+      </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
         <source>Forgot password?</source>
         <target state="translated">Passwort vergessen?</target>
@@ -26,10 +51,45 @@
         <target state="translated">Passwort zurücksetzen</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
+      <trans-unit id="21689a7153c422f3a4d27fa44d04d6708842a194" resname="authentication.reset_your_password.cancel">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: authentication.reset_your_password.cancel</note>
+      </trans-unit>
+      <trans-unit id="daab336a9cb12d2d04146c55228268227cf1017a" resname="authentication.sign_in">
+        <source>Sign in</source>
+        <target state="translated">Anmelden</target>
+        <note>key: authentication.sign_in</note>
+      </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username">
         <source>Username</source>
         <target state="translated">Benutzername</target>
         <note>key: authentication.username</note>
+      </trans-unit>
+      <trans-unit id="da372ec3b84bf86c7c894321765e6a8f2172e20b" resname="base.enter_credentials">
+        <source>Enter your login credentials below.</source>
+        <target state="translated">Geben Sie unten Ihre Anmeldeinformationen ein.</target>
+        <note>key: base.enter_credentials</note>
+      </trans-unit>
+      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
+        <source><![CDATA[Copyright &#169; IBEXA 1999-%current_year%]]></source>
+        <target state="translated"><![CDATA[Copyright & # 169; IBEXA 1999-% current_year%]]></target>
+        <note>key: base.footer_copyright</note>
+      </trans-unit>
+      <trans-unit id="c82a33e6a2272aab44ff7b78c90817c0fc8768cb" resname="base.need_assistance">
+        <source>Get to know Ibexa DXP</source>
+        <target state="translated">Lernen Sie Ibexa DXP kennen</target>
+        <note>key: base.need_assistance</note>
+      </trans-unit>
+      <trans-unit id="b5305384fa0fd949ec756891f50f093fd26dd06c" resname="base.sign_in">
+        <source>Sign in to IBEXA DXP</source>
+        <target state="translated">Bei IBEXA DXP anmelden</target>
+        <note>key: base.sign_in</note>
+      </trans-unit>
+      <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
+        <source><![CDATA[Visit the official documentation %ez_documentation_link%<br/>or get in touch with us: %ez_contact_link%]]></source>
+        <target state="translated"><![CDATA[Besuchen Sie die offizielle Dokumentation% ez_documentation_link% <br/> oder setzen Sie sich mit uns in Verbindung:% ez_contact_link%]]></target>
+        <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
@@ -41,10 +101,70 @@
         <target state="translated">Benutzereinstellungen</target>
         <note>key: breadcrumb.user_preferences</note>
       </trans-unit>
+      <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
+        <source>characters</source>
+        <target state="translated">Zeichen</target>
+        <note>key: character_counter.characters</note>
+      </trans-unit>
+      <trans-unit id="b3640cba0a21cf24519f469dc0bf31c036efdc28" resname="character_counter.words">
+        <source>words</source>
+        <target state="translated">Wörter</target>
+        <note>key: character_counter.words</note>
+      </trans-unit>
+      <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
+        <source>You don't have permissions to view this Content item (contentID: %contentId%).</source>
+        <target state="translated">Sie haben keine Berechtigung zum Anzeigen dieses Inhaltselements (contentID:% contentId%).</target>
+        <note>key: content.hidden.message</note>
+      </trans-unit>
+      <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: content.hide.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="0d905b86763ff15a40c8c15f0960d6038bdfd008" resname="content.hide.modal.confirm">
+        <source>Confirm</source>
+        <target state="translated">Bestätigen</target>
+        <note>key: content.hide.modal.confirm</note>
+      </trans-unit>
+      <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
+        <source>To hide the Content item anyway, click Confirm.</source>
+        <target state="translated">Klicken Sie auf Bestätigen, um das Inhaltselement trotzdem auszublenden.</target>
+        <note>key: content.hide.modal.please_confirm_to_continue</note>
+      </trans-unit>
+      <trans-unit id="7932e7fd6d6b90a8264cf5805586cab3294290ed" resname="content.hide.modal.title">
+        <source>Content hide conflict</source>
+        <target state="translated">Inhalt verbergen Konflikt</target>
+        <note>key: content.hide.modal.title</note>
+      </trans-unit>
+      <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
+        <source>This content is used by other Content item(s). To avoid errors, update or remove all related content listed in the Relations tab.</source>
+        <target state="translated">Dieser Inhalt wird von anderen Inhaltselementen verwendet. Um Fehler zu vermeiden, aktualisieren oder entfernen Sie alle zugehörigen Inhalte, die auf der Registerkarte Beziehungen aufgeführt sind.</target>
+        <note>key: content.hide.modal.warning_content_used_by_other_content</note>
+      </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
         <target state="translated">In Papierkorb</target>
         <note>key: content.in_trash</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target state="translated">Inhaltstypen</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
@@ -56,6 +176,61 @@
         <target state="translated">Löschen</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
+      <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
+        <source><![CDATA[Please contact your Administrator to request access to this content or modify your profile.<br/>Otherwise, go back to <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
+        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um Zugriff auf diesen Inhalt anzufordern oder Ihr Profil zu ändern. <br/> Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%"> Dashboard </a> oder <einer Klasse zurück = "error-page__link" href = "% search%"> Suche </a> nach einem anderen Inhaltselement.]]></target>
+        <note>key: error.page.403.actions</note>
+      </trans-unit>
+      <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
+        <source>Not possible to retrieve or access this page.</source>
+        <target state="translated">Es ist nicht möglich, diese Seite abzurufen oder darauf zuzugreifen.</target>
+        <note>key: error.page.403.sub_title</note>
+      </trans-unit>
+      <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
+        <source>You don't have permission</source>
+        <target state="translated">Sie haben keine Berechtigung</target>
+        <note>key: error.page.403.title</note>
+      </trans-unit>
+      <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
+        <source><![CDATA[Check the URL for a typo and try again.<br/>Otherwise, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
+        <target state="translated"><![CDATA[Überprüfen Sie die URL auf Tippfehler und versuchen Sie es erneut. Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%"> Dashboard </a> oder <a class = "error- zurück. page__link "href ="% search% "> Suche </a> nach einem anderen Inhaltselement.]]></target>
+        <note>key: error.page.404.actions</note>
+      </trans-unit>
+      <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
+        <source><![CDATA[The page you requested was not found.<br/> It might have been deleted or it is temporarily unavailable.]]></source>
+        <target state="translated"><![CDATA[Die von Ihnen angeforderte Seite wurde nicht gefunden. <br/> Möglicherweise wurde sie gelöscht oder ist vorübergehend nicht verfügbar.]]></target>
+        <note>key: error.page.404.message</note>
+      </trans-unit>
+      <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
+        <source>You probably weren't expecting to land here.</source>
+        <target state="translated">Sie hatten wahrscheinlich nicht erwartet, hier zu landen.</target>
+        <note>key: error.page.404.sub_title</note>
+      </trans-unit>
+      <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
+        <source>Page not found</source>
+        <target state="translated">Seite nicht gefunden</target>
+        <note>key: error.page.404.title</note>
+      </trans-unit>
+      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
+        <source><![CDATA[<b>Contact your Administrator and inform them about</b><br/> the time the error occurred, the URL in your browser window, and anything related<br/>that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
+        <target state="translated"><![CDATA[<b> Wenden Sie sich an Ihren Administrator und informieren Sie ihn über </ b> <br/> den Zeitpunkt des Auftretens des Fehlers, die URL in Ihrem Browserfenster und alles, was Ihrer Meinung nach den Fehler verursacht haben könnte. <br / > Sie können auch zurückgehen oder versuchen, die Anwendung neu zu laden.]]></target>
+        <note>key: error.page.default.actions</note>
+      </trans-unit>
+      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
+        <source>The server was unable to complete your request because of an internal problem.</source>
+        <target state="translated">Der Server konnte Ihre Anfrage aufgrund eines internen Problems nicht ausführen.</target>
+        <note>key: error.page.default.message</note>
+      </trans-unit>
+      <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
+        <source>We apologize for the internal server error.</source>
+        <target state="translated">Wir entschuldigen uns für den internen Serverfehler.</target>
+        <note>key: error.page.default.sub_title</note>
+      </trans-unit>
+      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
+        <source>Something went wrong</source>
+        <target state="translated">Etwas ist schief gelaufen</target>
+        <note>key: error.page.default.title</note>
+      </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
         <source>Add author</source>
         <target state="translated">Autor hinzufügen</target>
@@ -66,10 +241,53 @@
         <target state="translated">Autor entfernen</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
+      <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
+        <source>Your password has expired, change it.</source>
+        <target state="translated">Ihr Passwort ist abgelaufen, ändern Sie es.</target>
+        <note>key: ezplatform.forgot_password.reset_your_password.reason.migration</note>
+      </trans-unit>
+      <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
+        <source>If you do not remember your login, contact your Administrator.</source>
+        <target state="translated">Wenn Sie sich nicht an Ihren Login erinnern, wenden Sie sich an Ihren Administrator.</target>
+        <note>key: ezplatform.forgot_user_password.contact_administrator</note>
+      </trans-unit>
+      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
+        <source>This email is connected with several accounts. Enter your login instead.</source>
+        <target state="translated">Diese E-Mail ist mit mehreren Konten verbunden. Geben Sie stattdessen Ihren Login ein.</target>
+        <note>key: ezplatform.forgot_user_password.login</note>
+      </trans-unit>
+      <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
+        <source><![CDATA[Hi,
+        <br /><br />
+        We have received a request to reset the password for your eZ Platform account. Click “reset password” below to choose a new password:
+        <br /><br />
+        <a href="%reset_password%">Reset password</a>
+        <br /><br />
+        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
+        <target state="translated"><![CDATA[Hallo,
+        <br /> <br />
+        Wir haben eine Anfrage zum Zurücksetzen des Passworts für Ihr eZ Platform-Konto erhalten. Klicken Sie unten auf "Passwort zurücksetzen", um ein neues Passwort auszuwählen:
+        <br /> <br />
+        <a href="%reset_password%"> Passwort zurücksetzen </a>
+        <br /> <br />
+        Wenn Sie kein Zurücksetzen des Passworts angefordert haben, ignorieren Sie diese E-Mail. Ihr Passwort bleibt unverändert.]]></target>
+        <note>key: ezplatform.forgot_user_password.message</note>
+      </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
         <target state="translated">Passwort zurücksetzen</target>
         <note>key: ezplatform.forgot_user_password.reset_your_password</note>
+      </trans-unit>
+      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
+        <source><![CDATA[<p>An email has been sent to the address you provided with instructions on how to reset your password.</p>
+            <p>If the email is slow to arrive, check your spam folders.</p>
+            <p>If you don't receive an email, make sure you've entered the address you registered with, and check your spam folder.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid.</p>]]></source>
+        <target state="translated"><![CDATA[<p> An die von Ihnen angegebene Adresse wurde eine E-Mail mit Anweisungen zum Zurücksetzen Ihres Passworts gesendet. </ p>
+            <p> Wenn die E-Mail nur langsam eintrifft, überprüfen Sie Ihre Spam-Ordner. </ p>
+            <p> Wenn Sie keine E-Mail erhalten, stellen Sie sicher, dass Sie die Adresse eingegeben haben, unter der Sie sich registriert haben, und überprüfen Sie Ihren Spam-Ordner. </ p>
+            <p> Wenn Sie Ihr Passwort mehrmals zurücksetzen, ist nur der letzte E-Mail-Link gültig. </ p>]]></target>
+        <note>key: ezplatform.forgot_user_password.success</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
         <source>Change password</source>
@@ -81,15 +299,50 @@
         <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href="%forgot_user_password%">einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
+      <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
+        <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
+        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich <a href="%login%"> bei </a> bei eZ Platform anmelden.]]></target>
+        <note>key: ezplatform.reset_user_password.success</note>
+      </trans-unit>
+      <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
+        <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
+        <target state="translated"><![CDATA[Copyright & Kopie; % Jahr% Steinbock. Alle Rechte vorbehalten]]></target>
+        <note>key: footer.copyright</note>
+      </trans-unit>
+      <trans-unit id="9108451fc15edd434efe02a84ea849c334073272" resname="footer.ibexa_documentation">
+        <source>Documentation</source>
+        <target state="translated">Dokumentation</target>
+        <note>key: footer.ibexa_documentation</note>
+      </trans-unit>
+      <trans-unit id="98ec0f718367b011625843a7ebdd12e8185c53ce" resname="footer.ibexa_dxp">
+        <source>Ibexa DXP</source>
+        <target state="translated">Ibexa DXP</target>
+        <note>key: footer.ibexa_dxp</note>
+      </trans-unit>
+      <trans-unit id="d62f840248f2507f4299133fe259bc4c091f31a8" resname="footer.ibexa_support">
+        <source>Support</source>
+        <target state="translated">Unterstützung</target>
+        <note>key: footer.ibexa_support</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
         <note>key: form.cancel</note>
       </trans-unit>
+      <trans-unit id="1ada7c495c1592fd70ef48759574e764787bf969" resname="location_trash_form.confirm_label">
+        <source>I understand the consequences of this action.</source>
+        <target state="translated">Ich verstehe die Konsequenzen dieser Aktion.</target>
+        <note>key: location_trash_form.confirm_label</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
         <note>key: modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
+        <source>Close</source>
+        <target state="translated">Schließen</target>
+        <note>key: modal.close</note>
       </trans-unit>
       <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
         <source>Delete</source>
@@ -101,10 +354,35 @@
         <target state="translated">Jeder Zeitpunkt</target>
         <note>key: search.any_time</note>
       </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>From date - to date</source>
+        <target state="translated">Von Datum - bis Datum</target>
+        <note>key: search.date.range</note>
+      </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
         <target state="translated">Inhalt zuweisen</target>
         <note>key: section.assign,content</note>
+      </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete the Section(s)?</source>
+        <target state="translated">Möchten Sie die Sektion(en) löschen?</target>
+        <note>key: section.modal.message</note>
+      </trans-unit>
+      <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
+        <source>Swap Locations</source>
+        <target state="translated">Standorte tauschen</target>
+        <note>key: tab.locations.location_content_swap</note>
+      </trans-unit>
+      <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
+        <source>Swap the Content item at this Location with another</source>
+        <target state="translated">Vertausche das Inhaltselement an diesem Ort mit einem anderen</target>
+        <note>key: tab.locations.swap_with_another</note>
+      </trans-unit>
+      <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
+        <source>Preview</source>
+        <target state="translated">Vorschau</target>
+        <note>key: tab.view.preview</note>
       </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
@@ -125,6 +403,56 @@
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
         <note>key: trash.form.cancel</note>
+      </trans-unit>
+      <trans-unit id="7f37e5f732ee7101a696a881cf22045bcd11359c" resname="trash.modal.close">
+        <source>Close</source>
+        <target state="translated">Schließen</target>
+        <note>key: trash.modal.close</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Are you sure you want to send this Content item to Trash?</source>
+        <target state="translated">Sind Sie sicher, dass Sie dieses Inhaltselement in den Papierkorb senden möchten?</target>
+        <note>key: trash.modal.message</note>
+      </trans-unit>
+      <trans-unit id="3a46b65a9b678fb947285b2c9509943ee6764195" resname="trash.search.any_content_types">
+        <source>Any Content Types</source>
+        <target state="translated">Alle Inhaltstypen</target>
+        <note>key: trash.search.any_content_types</note>
+      </trans-unit>
+      <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
+        <source>Any time</source>
+        <target state="translated">Jederzeit</target>
+        <note>key: trash.search.any_time</note>
+      </trans-unit>
+      <trans-unit id="c2b2679781ad4a22bb232e2ab34669ffe49c760b" resname="trash.search.section.any">
+        <source>Any Section</source>
+        <target state="translated">Jede Sektion</target>
+        <note>key: trash.search.section.any</note>
+      </trans-unit>
+      <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
+        <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
+        <target state="translated">Wenn Sie diese Assets auch löschen möchten, stellen Sie zunächst sicher, dass sie nicht von anderen Inhalten verwendet werden. Um dies zu überprüfen, rufen Sie die Asset-Vorschau auf und sehen Sie sich deren Inhalt Beziehungen auf der Registerkarte Beziehungen an.</target>
+        <note>key: trash_asset.modal.message_body</note>
+      </trans-unit>
+      <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
+        <source>You are about to delete a Content item that has one or more asset Field(s) used by other Content items. These assets will remain available in system.</source>
+        <target state="translated">Sie sind dabei, ein Inhaltselement zu löschen, das über ein oder mehrere Asset-Felder verfügt, die von anderen Inhaltselementen verwendet werden. Diese Assets bleiben im System verfügbar.</target>
+        <note>key: trash_asset.modal.message_header</note>
+      </trans-unit>
+      <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
+        <source>'%content_name%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</source>
+        <target state="translated">'% content_name%' hat 1 oder mehrere Asset-Felder. Sie haben die Möglichkeit, nur das Inhaltselement an den Papierkorb zu senden oder das Inhaltselement und seine Assets an den Papierkorb zu senden. Bitte wählen Sie Ihre Option:</target>
+        <note>key: trash_asset_single.modal.message_main</note>
+      </trans-unit>
+      <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
+        <source>Sending '%content_name%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
+        <target state="translated">Durch das Senden von '% content_name%' und seiner% children_count% -Inhaltselemente an den Papierkorb werden auch die Unterelemente dieses Speicherorts an den Papierkorb gesendet.</target>
+        <note>key: trash_container.modal.message_main</note>
+      </trans-unit>
+      <trans-unit id="ef4df0dede01e561e75568aa128a8092cbbee66a" resname="trash_container.modal.message_relations">
+        <source>'%content_name%' is in use by %reverse_relations% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
+        <target state="translated">'% content_name%' wird von% reverse_relations% Content item (s) verwendet. Sie sollten alle umgekehrten Beziehungen entfernen, bevor Sie das Inhaltselement löschen.</target>
+        <note>key: trash_container.modal.message_relations</note>
       </trans-unit>
     </body>
   </file>

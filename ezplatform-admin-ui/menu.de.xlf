@@ -31,10 +31,20 @@
         <target state="translated">Bearbeiten</target>
         <note>key: content__sidebar_right__edit</note>
       </trans-unit>
+      <trans-unit id="4edbd819e96b4bea94ad02f9ce655c2f81f1b4d0" resname="content__sidebar_right__hide">
+        <source>Hide</source>
+        <target state="translated">Ausblenden</target>
+        <note>key: content__sidebar_right__hide</note>
+      </trans-unit>
       <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move">
         <source>Move</source>
         <target state="translated">Verschieben</target>
         <note>key: content__sidebar_right__move</note>
+      </trans-unit>
+      <trans-unit id="bbf7b43821e5ac0ce57d977a3ce156baf9a9d7b7" resname="content__sidebar_right__reveal">
+        <source>Reveal</source>
+        <target state="translated">Verraten</target>
+        <note>key: content__sidebar_right__reveal</note>
       </trans-unit>
       <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
         <source>Send to Trash</source>
@@ -80,6 +90,11 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
+      </trans-unit>
+      <trans-unit id="3b59d1cdd9c85ff781a3a442345bb648cc49dd31" resname="content_type__sidebar_right__edit">
+        <source>Edit</source>
+        <target state="translated">Bearbeiten</target>
+        <note>key: content_type__sidebar_right__edit</note>
       </trans-unit>
       <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -166,10 +181,10 @@
         <target state="translated">Sektionen</target>
         <note>key: main__admin__sections</note>
       </trans-unit>
-      <trans-unit id="2cc622305036d330c00683520df433ef82f60c9a" resname="main__admin__systeminfo">
-        <source>System Information</source>
-        <target state="translated">Systeminformationen</target>
-        <note>key: main__admin__systeminfo</note>
+      <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
+        <source>URL Management</source>
+        <target state="translated">URL-Verwaltung</target>
+        <note>key: main__admin__url_management</note>
       </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
         <source>Users</source>
@@ -266,6 +281,16 @@
         <target state="translated">Speichern</target>
         <note>key: role_assignment_create__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="88bfe7703596452559485dd44c7a7dbf289584a5" resname="role_copy__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target state="translated">Änderungen verwerfen</target>
+        <note>key: role_copy__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="36e448abb1ab7844befaf5a70ac65edf976bae85" resname="role_copy__sidebar_right__save">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: role_copy__sidebar_right__save</note>
+      </trans-unit>
       <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel">
         <source>Discard changes</source>
         <target state="translated">Änderungen verwerfen</target>
@@ -326,6 +351,11 @@
         <target state="translated">Papierkorb</target>
         <note>key: sidebar_left__trash</note>
       </trans-unit>
+      <trans-unit id="af4736ff799291d6658545d0afb52240d7250cf3" resname="sidebar_left__tree">
+        <source>Content Tree</source>
+        <target state="translated">Inhaltsbaum</target>
+        <note>key: sidebar_left__tree</note>
+      </trans-unit>
       <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
         <source>Empty Trash</source>
         <target state="translated">Papierkorb leeren</target>
@@ -341,6 +371,16 @@
         <target state="translated">Speichern</target>
         <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="279fb028abf07d3fadda07ff6e00b91f0fd53932" resname="url_wildcard_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target state="translated">Änderungen verwerfen</target>
+        <note>key: url_wildcard_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="02bb48356132caeef070ebc7eb4d266884044e85" resname="url_wildcard_edit__sidebar_right__save">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: url_wildcard_edit__sidebar_right__save</note>
+      </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
         <source>Bookmarks</source>
         <target state="translated">Lesezeichen</target>
@@ -350,6 +390,11 @@
         <source>Logout</source>
         <target state="translated">Abmelden</target>
         <note>key: user__content</note>
+      </trans-unit>
+      <trans-unit id="22a2aa3863b8f6a0ab24403998badeb4bb196254" resname="user__drafts">
+        <source>Drafts</source>
+        <target state="translated">Entwürfe</target>
+        <note>key: user__drafts</note>
       </trans-unit>
       <trans-unit id="d4a0cfb90774164e94f11e2a4f019a2538faebcf" resname="user__settings">
         <source>User Settings</source>

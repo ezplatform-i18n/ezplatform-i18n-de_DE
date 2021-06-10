@@ -6,51 +6,111 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="5f9298da055772d89f8fa7f74b2884fb218d8f26" resname="ibexa_personalization.scenario.attribute_name_boost_by_positions">
+        <source><![CDATA[Attribute name <strong>%attr_name%</strong> Boost by %number% positions]]></source>
+        <target state="translated"><![CDATA[Attributname <strong>%attr_name%</strong> Boost um %number% Positionen]]></target>
+        <note>key: ibexa_personalization.scenario.attribute_name_boost_by_positions</note>
+      </trans-unit>
+      <trans-unit id="58c4de4f2b038c7fc694aeac48b9e7c1f71ee6f3" resname="ibexa_personalization.scenario.do_not_recommend_if_price_unknown">
+        <source>Do not recommend if price unknown</source>
+        <target state="translated">Nicht empfehlen, wenn Preis unbekannt</target>
+        <note>key: ibexa_personalization.scenario.do_not_recommend_if_price_unknown</note>
+      </trans-unit>
+      <trans-unit id="a8025af1651d2099c2107775225bcc387c2ce030" resname="ibexa_personalization.scenario.do_not_recommend_items_the_user_already_consumed">
+        <source>Do not recommend items the user already consumed</source>
+        <target state="translated">Empfehlen Sie keine Artikel, die der Benutzer bereits konsumiert hat</target>
+        <note>key: ibexa_personalization.scenario.do_not_recommend_items_the_user_already_consumed</note>
+      </trans-unit>
+      <trans-unit id="ebce3059d579855d7d862adc078d05ef3cdb3e4c" resname="ibexa_personalization.scenario.do_not_recommend_items_the_user_already_purchased">
+        <source>Do not recommend items the user already purchased</source>
+        <target state="translated">Empfehlen Sie keine Artikel, die der Benutzer bereits gekauft hat</target>
+        <note>key: ibexa_personalization.scenario.do_not_recommend_items_the_user_already_purchased</note>
+      </trans-unit>
+      <trans-unit id="ad7d6a7f1fd78a63ca9ccc83922f534f68d2b157" resname="ibexa_personalization.scenario.do_not_recommend_the_item_currently_viewed">
+        <source>Do not recommend the item currently viewed</source>
+        <target state="translated">Empfehlen Sie den aktuell angezeigten Artikel nicht weiter</target>
+        <note>key: ibexa_personalization.scenario.do_not_recommend_the_item_currently_viewed</note>
+      </trans-unit>
+      <trans-unit id="08f818e6ef2fae24f62f92ad07c95034f5564d67" resname="ibexa_personalization.scenario.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
+        <source>Item price should equal or higher than the price of the context item</source>
+        <target state="translated">Der Artikelpreis sollte gleich oder höher als der Preis des Kontextartikels sein</target>
+        <note>key: ibexa_personalization.scenario.item_price_should_equal_or_higher_than_the_price_of_the_context_item</note>
+      </trans-unit>
+      <trans-unit id="68bd251c2e11768e865ea819505fcfba41843f4c" resname="ibexa_personalization.scenario.max_repeated_shows_of_identical_recommendation_per_session">
+        <source><![CDATA[<strong>%number%</strong> Max. repeated shows of identical recommendations per session.]]></source>
+        <target state="translated"><![CDATA[<strong>%number%</strong> Max. wiederholte Shows identischer Empfehlungen pro Sitzung.]]></target>
+        <note>key: ibexa_personalization.scenario.max_repeated_shows_of_identical_recommendation_per_session</note>
+      </trans-unit>
+      <trans-unit id="eac8685099002fc146e2ce28683000e349f385c7" resname="ibexa_personalization.scenario.minimum_price_of_the_recommended_product">
+        <source><![CDATA[<strong>%number%</strong> Minimum price of the recommended product]]></source>
+        <target state="translated"><![CDATA[<strong>%number%</strong> Mindestpreis des empfohlenen Produkts]]></target>
+        <note>key: ibexa_personalization.scenario.minimum_price_of_the_recommended_product</note>
+      </trans-unit>
+      <trans-unit id="dd66a1fe6db995357401eafaf77270921183d675" resname="ibexa_personalization.scenario.no_context_items">
+        <source>No context items</source>
+        <target state="translated">Keine Kontextelemente</target>
+        <note>key: ibexa_personalization.scenario.no_context_items</note>
+      </trans-unit>
+      <trans-unit id="c8b54a3dacff4f6a0b14755dfc400fab47c3d5e7" resname="ibexa_personalization.scenario.no_top_selling_items">
+        <source>No top-selling items</source>
+        <target state="translated">Keine meistverkauften Artikel</target>
+        <note>key: ibexa_personalization.scenario.no_top_selling_items</note>
+      </trans-unit>
+      <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
+        <source>Undefined</source>
+        <target state="translated">Nicht definiert</target>
+        <note>key: ibexa_personalization.scenario.undefined</note>
+      </trans-unit>
+      <trans-unit id="ab9e7870732261d79e13f05882a03f0c6c2e86eb" resname="ibexa_personalization.scenario.user_attribute_has_different_name">
+        <source><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></source>
+        <target state="translated"><![CDATA[Benutzerattribut hat einen anderen Namen <strong>%attr_name%</strong>]]></target>
+        <note>key: ibexa_personalization.scenario.user_attribute_has_different_name</note>
+      </trans-unit>
+      <trans-unit id="51dae687367d3979c98400d6b93fad3b8f774dfd" resname="preview.gallery.no_recommendations">
+        <source>No recomendations available</source>
+        <target state="translated">Keine Empfehlungen verfügbar</target>
+        <note>key: preview.gallery.no_recommendations</note>
+      </trans-unit>
+      <trans-unit id="8400357d8373649767321ac2086afcf5b44b947d" resname="preview.generate_recommendation_call">
+        <source>Generate recommendation call</source>
+        <target state="translated">Empfehlungsaufruf generieren</target>
+        <note>key: preview.generate_recommendation_call</note>
+      </trans-unit>
+      <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
+        <source>Generated url</source>
+        <target state="translated">Generierte Url</target>
+        <note>key: preview.generated_url</note>
+      </trans-unit>
+      <trans-unit id="f7fdc2f5ad9fadf93c65ddf827a7c44f0ae7aecc" resname="preview.hide_json">
+        <source>Hide</source>
+        <target state="translated">Ausblenden</target>
+        <note>key: preview.hide_json</note>
+      </trans-unit>
+      <trans-unit id="8154028527057fde968ab6eca0e24ea5f2f539e3" resname="preview.recommendation_response">
+        <source>Recommendation response</source>
+        <target state="translated">Antwort der Empfehlung</target>
+        <note>key: preview.recommendation_response</note>
+      </trans-unit>
+      <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
+        <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
+        <target state="translated">Die Art und Weise, wie Empfehlungen wiedergegeben werden, ist nur ein Beispiel. Dies kann vom tatsächlichen Ansatz des Kunden auf der Website abweichen</target>
+        <note>key: preview.recommendation_response_description</note>
+      </trans-unit>
+      <trans-unit id="c9097b20c289b6157e6762c030438edb8ffac4c1" resname="preview.scenario">
+        <source>Scenario preview</source>
+        <target state="translated">Szenariovorschau</target>
+        <note>key: preview.scenario</note>
+      </trans-unit>
+      <trans-unit id="f6b27e1c34d4f1dbb53abc36293d7ebb09ae5337" resname="preview.send_request">
+        <source>Send request</source>
+        <target state="translated">Anfrage senden</target>
+        <note>key: preview.send_request</note>
+      </trans-unit>
+      <trans-unit id="3c875a08456b699ed4a27b8ff97c40b100bb67c4" resname="preview.show_json">
+        <source>See response code</source>
+        <target state="translated">Siehe Antwortcode</target>
+        <note>key: preview.show_json</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

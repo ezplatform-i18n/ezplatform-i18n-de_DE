@@ -6,30 +6,126 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="fe14b67513fcea11ed2cef38a90d5c4cf91aa532" resname="role.policy.segment">
+        <source>Segment</source>
+        <target state="translated">Segment</target>
+        <note>key: role.policy.segment</note>
+      </trans-unit>
+      <trans-unit id="3939393469a4421bacb5ed2e75f992f6837240ab" resname="role.policy.segment.all_functions">
+        <source>Segment / All functions</source>
+        <target state="translated">Segment / Alle Funktionen</target>
+        <note>key: role.policy.segment.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
+        <source>Segment / Assign to user</source>
+        <target state="translated">Segment / Zuweisen an Benutzer</target>
+        <note>key: role.policy.segment.assign_to_user</note>
+      </trans-unit>
+      <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
+        <source>Segment / Create</source>
+        <target state="translated">Segment / Erstellen</target>
+        <note>key: role.policy.segment.create</note>
+      </trans-unit>
+      <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
+        <source>Segment / Read</source>
+        <target state="translated">Segment / Lesen</target>
+        <note>key: role.policy.segment.read</note>
+      </trans-unit>
+      <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
+        <source>Segment / Remove</source>
+        <target state="translated">Segment / Entfernen</target>
+        <note>key: role.policy.segment.remove</note>
+      </trans-unit>
+      <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
+        <source>Segment / Update</source>
+        <target state="translated">Segment / Update</target>
+        <note>key: role.policy.segment.update</note>
+      </trans-unit>
+      <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
+        <source>Segment / View user segment list</source>
+        <target state="translated">Segment/Benutzersegmentliste anzeigen</target>
+        <note>key: role.policy.segment.view_user_segment_list</note>
+      </trans-unit>
+      <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
+        <source>Segment group</source>
+        <target state="translated">Segmentgruppe</target>
+        <note>key: role.policy.segment_group</note>
+      </trans-unit>
+      <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
+        <source>Segment Group / All functions</source>
+        <target state="translated">Segmentgruppe / Alle Funktionen</target>
+        <note>key: role.policy.segment_group.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
+        <source>Segment Group / Create</source>
+        <target state="translated">Segmentgruppe / Erstellen</target>
+        <note>key: role.policy.segment_group.create</note>
+      </trans-unit>
+      <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
+        <source>Segment Group / Read</source>
+        <target state="translated">Segmentgruppe / Lesen</target>
+        <note>key: role.policy.segment_group.read</note>
+      </trans-unit>
+      <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
+        <source>Segment Group / Remove</source>
+        <target state="translated">Segmentgruppe / Entfernen</target>
+        <note>key: role.policy.segment_group.remove</note>
+      </trans-unit>
+      <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
+        <source>Segment Group / Update</source>
+        <target state="translated">Segmentgruppe / Aktualisierung</target>
+        <note>key: role.policy.segment_group.update</note>
+      </trans-unit>
+      <trans-unit id="7977b91cf7f7467de74633ce7fd46a0714ab5412" resname="segment_bulk_delete_form.delete">
+        <source>Delete Segments</source>
+        <target state="translated">Segmente löschen</target>
+        <note>key: segment_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="9a069765672a2f2b864751f1bb933202a8dab393" resname="segment_create_form.create">
+        <source>Create</source>
+        <target state="translated">Anlegen</target>
+        <note>key: segment_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="89b4e639fd50276fdaa2def0bd01f262c4ea0686" resname="segment_group_bulk_delete_form.delete">
+        <source>Delete</source>
+        <target state="translated">Löschen</target>
+        <note>key: segment_group_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="d4bad89505ed54f60df85a8d458fa2e4ac1ac8db" resname="segment_group_create.identifier">
+        <source>Identifier</source>
+        <target state="translated">Kennung</target>
+        <note>key: segment_group_create.identifier</note>
+      </trans-unit>
+      <trans-unit id="20d5e75dd76b6dc414be25970c59dd92a262182d" resname="segment_group_create.name">
+        <source>Name</source>
+        <target state="translated">Name</target>
+        <note>key: segment_group_create.name</note>
+      </trans-unit>
+      <trans-unit id="e21a084414105588c582871d94fe6aa3eb7fc986" resname="segment_group_create.segments">
+        <source>Segments</source>
+        <target state="translated">Segmente</target>
+        <note>key: segment_group_create.segments</note>
+      </trans-unit>
+      <trans-unit id="c8aa8e048b310f79beff0be025bbf0fa7b845635" resname="segment_group_create_form.create">
+        <source>Create</source>
+        <target state="translated">Erstelle</target>
+        <note>key: segment_group_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
+        <source>Update</source>
+        <target state="translated">Aktualisieren</target>
+        <note>key: segment_group_create_form.update</note>
+      </trans-unit>
+      <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
+        <source>Delete</source>
+        <target state="translated">Löschen</target>
+        <note>key: segment_group_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
+        <source>Update</source>
+        <target state="translated">Aktualisieren</target>
+        <note>key: segment_update_form.update</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
