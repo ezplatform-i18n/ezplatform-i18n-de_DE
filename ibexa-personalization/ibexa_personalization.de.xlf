@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
         <source>[ABC][%attribut_source%] %key%</source>
-        <target state="translated">[ABC] [% attribut_source%]% key%</target>
+        <target state="translated">[ABC] [%attribut_source%] %key%</target>
         <note>key: model.details.nominal_submodel_name</note>
       </trans-unit>
       <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="80c957555e73ba53940e0f48357a73373bcebdd5" resname="model.details.numeric_submodel_name">
         <source>[123][%attribut_source%] %key%</source>
-        <target state="translated">[123] [% attribut_source%]% key%</target>
+        <target state="translated">[123] [%attribut_source%] %key%</target>
         <note>key: model.details.numeric_submodel_name</note>
       </trans-unit>
       <trans-unit id="0ddc3c62ef88ff9bc48096cc7f5867bf4fbb0e0c" resname="model.details.relevant_history">
@@ -1834,7 +1834,7 @@
       </trans-unit>
       <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
         <source>Models (%number_of_models%)</source>
-        <target state="translated">Modelle (% number_of_models%)</target>
+        <target state="translated">Modelle (%number_of_models%)</target>
         <note>key: models.table_title</note>
       </trans-unit>
       <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
         <source>Removed version(s) from '%name%'.</source>
-        <target state="translated">Version (en) aus '% name%' entfernt.</target>
+        <target state="translated">Version(en) aus '%name%' entfernt.</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>

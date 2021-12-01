@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="03ebd0d1e50c8323be782f1095d9d4d7f9edffa4" resname="content.field_type.ezimageasset.img_alt">
         <source>Image stored in Field '%label%'</source>
-        <target state="translated">Bild im Feld '% label%' gespeichert</target>
+        <target state="translated">Bild im Feld '%label%' gespeichert</target>
         <note>key: content.field_type.ezimageasset.img_alt</note>
       </trans-unit>
       <trans-unit id="bdf413a5b83f6299a56d72a472afd24ab790bab1" resname="content.field_type.ezmedia.delete">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="91cee9d11eeed40768d4e5270d91cd5165f4562f" resname="ezobjectrelationlist.limit">
         <source>(max. %limit%)</source>
-        <target state="translated">(max.% limit%)</target>
+        <target state="translated">(max. %limit%)</target>
         <note>key: ezobjectrelationlist.limit</note>
       </trans-unit>
       <trans-unit id="4ab30b13084b6d6bff3b8fd7dc9ab5879b35097c" resname="ezobjectrelationlist.relations">

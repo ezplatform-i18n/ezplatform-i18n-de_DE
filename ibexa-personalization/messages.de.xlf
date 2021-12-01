@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
         <source>%start_date% to %end_date%</source>
-        <target state="translated">% start_date% bis% end_date%</target>
+        <target state="translated">%start_date% bis %end_date%</target>
         <note>key: dashboard.charts.date_time_range</note>
       </trans-unit>
       <trans-unit id="300d97f801a0a15e19477e68958304d82f5c7d6a" resname="dashboard.charts.items_purchased">
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
         <source>Your request was sent by %name% and is being processed.</source>
-        <target state="translated">Ihre Anfrage wurde von% name% gesendet und wird bearbeitet.</target>
+        <target state="translated">Ihre Anfrage wurde von %name% gesendet und wird bearbeitet.</target>
         <note>key: welcome.activation_status.subtitle</note>
       </trans-unit>
       <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">

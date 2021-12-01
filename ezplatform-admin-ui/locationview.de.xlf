@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">Sie haben nicht die Berechtigung '% function%' '% module%' für die Inhalts-ID:% contentId%</target>
+        <target state="translated">Sie haben nicht die Berechtigung '%function%' '%module%' für die Inhalts-ID: %contentId%</target>
         <note>key: dashboard.table.relation.unauthorized</note>
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
@@ -93,9 +93,7 @@
       </trans-unit>
       <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
         <source>Can't fetch creator</source>
-        <target state="translated">Ich kann den Schöpfer nicht abrufen
-
-</target>
+        <target state="translated">Ersteller kann nicht abgerufen werden</target>
         <note>key: tab.details.creator.not_found</note>
       </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
@@ -275,12 +273,12 @@
       </trans-unit>
       <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
         <source>Related content (Content items used by %contentName%)</source>
-        <target state="translated">Verwandte Inhalte (Inhaltselemente, die von% contentName% verwendet werden)</target>
+        <target state="translated">Verwandte Inhalte (Inhaltselemente, die von %contentName% verwendet werden)</target>
         <note>key: tab.relations.related_content</note>
       </trans-unit>
       <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
         <source>Reverse relations (Content items using %contentName%)</source>
-        <target state="translated">Umgekehrte Beziehungen (Inhaltselemente mit% contentName%)</target>
+        <target state="translated">Umgekehrte Beziehungen (Inhaltselemente mit %contentName%)</target>
         <note>key: tab.relations.reverse_relations</note>
       </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type">

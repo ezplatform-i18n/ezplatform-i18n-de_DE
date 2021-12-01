@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">Sie haben nicht die Berechtigung '% function%' '% module%' für die Inhalts-ID:% contentId%</target>
+        <target state="translated">Sie haben nicht die Berechtigung '%function%' '%module%' für die Inhalts-ID: %contentId%</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">

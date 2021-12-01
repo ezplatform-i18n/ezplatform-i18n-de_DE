@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
         <source>Cannot find children Locations with ID %idList%</source>
-        <target state="translated">Untergeordnete Standorte mit der ID% idList% können nicht gefunden werden</target>
+        <target state="translated">Untergeordnete Orte mit der ID %idList% können nicht gefunden werden</target>
         <note>key: select_location.error</note>
       </trans-unit>
       <trans-unit id="1e503a68093242d42791b3ce4572f246b994d303" resname="selected_locations.clear_all">

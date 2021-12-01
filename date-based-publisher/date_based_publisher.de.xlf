@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="bbe04767f0375f92f75f5af2141911d222faaca6" resname="dashboard.scheduling.modal.creator">
         <source>Creator</source>
-        <target state="translated">Schöpfer</target>
+        <target state="translated">Ersteller</target>
         <note>key: dashboard.scheduling.modal.creator</note>
       </trans-unit>
       <trans-unit id="78fe84d8eeaad5a5fc2bbb77ee6a0decc647fe65" resname="dashboard.scheduling.modal.date_and_time">

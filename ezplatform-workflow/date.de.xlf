@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="b3caf2127ff7fb3fd977af365ec4f104d6ab7687" resname="diff.ago.hour">
         <source>1 hour ago|%count% hours ago</source>
-        <target state="translated">vor 1 Stunde| vor%count% Stunden</target>
+        <target state="translated">vor 1 Stunde|vor %count% Stunden</target>
         <note>key: diff.ago.hour</note>
       </trans-unit>
       <trans-unit id="0f2fbc7aab2cdee45a9a33d5a240469b3c18bfdc" resname="diff.ago.minute">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="15b5427458b3b746bfc0934d6fb25f021fd15f47" resname="diff.in.second">
         <source>in 1 second|in %count% seconds</source>
-        <target state="translated">in 1 Sekunde | in% Anzahl% Sekunden</target>
+        <target state="translated">in 1 Sekunde | in %count% Sekunden</target>
         <note>key: diff.in.second</note>
       </trans-unit>
       <trans-unit id="8d5947aadf04f3a3bc9fbb77a3322a7c51252b92" resname="diff.in.year">

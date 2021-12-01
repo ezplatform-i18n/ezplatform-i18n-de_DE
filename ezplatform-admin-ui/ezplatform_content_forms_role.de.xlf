@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
         <source>Editing Limitations for '%limitationTypeIdentifier%' is not available.</source>
-        <target state="translated">Das Bearbeiten von Einschränkungen für '% limitationTypeIdentifier%' ist nicht verfügbar.</target>
+        <target state="translated">Das Bearbeiten von Einschränkungen für '%limitationTypeIdentifier%' ist nicht verfügbar.</target>
         <note>key: role.policy.limitation.not_implemented</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">

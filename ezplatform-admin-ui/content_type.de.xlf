@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="0a08ba6425acc6e52b75ebbe0b77d90df5cb81a1" resname="content_type.add.missing_language">
         <source>Cannot create Content Type. Could not find language with identifier '%languageCode%'</source>
-        <target state="translated">Inhaltstyp kann nicht erstellt werden. Sprache mit der Kennung '% languageCode%' konnte nicht gefunden werden.</target>
+        <target state="translated">Inhaltstyp kann nicht erstellt werden. Sprache mit der Kennung '%languageCode%' konnte nicht gefunden werden.</target>
         <note>key: content_type.add.missing_language</note>
       </trans-unit>
       <trans-unit id="0b5b303097790cd7cf1dde918d885439e60ecbd2" resname="content_type.add_field_definition">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Error occoured while copying the '%name%' Content Type.</source>
-        <target state="translated">Beim Kopieren des Inhaltstyps '% name%' ist ein Fehler aufgetreten.</target>
+        <target state="translated">Beim Kopieren des Inhaltstyps '%name%' ist ein Fehler aufgetreten.</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
         <source>Content Type '%name%' successfully copied.</source>
-        <target state="translated">Der Inhaltstyp '% name%' wurde erfolgreich kopiert.</target>
+        <target state="translated">Der Inhaltstyp '%name%' wurde erfolgreich kopiert.</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
         <source>Content Type '%name%' deleted.</source>
-        <target state="translated">Inhaltstyp '% name%' gelöscht.</target>
+        <target state="translated">Inhaltstyp '%name%' gelöscht.</target>
         <note>key: content_type.delete.success</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
@@ -128,9 +128,7 @@
       </trans-unit>
       <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
         <source>Draft of Content Type '%name%' already exists and is locked by '%userContentName%'</source>
-        <target state="translated">Der Entwurf des Inhaltstyps '% name%' ist bereits vorhanden und wird durch '% userContentName%' gesperrt.
-
-</target>
+        <target state="translated">Der Entwurf des Inhaltstyps '%name%' ist bereits vorhanden und wird durch '%userContentName%' gesperrt.</target>
         <note>key: content_type.edit.error.already_exists</note>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
@@ -380,7 +378,7 @@
       </trans-unit>
       <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
         <source>Editing Content Type '%name%'</source>
-        <target state="translated">Bearbeiten des Inhaltstyps '% name%'</target>
+        <target state="translated">Bearbeiten des Inhaltstyps '%name%'</target>
         <note>key: content_type.view.edit.title</note>
       </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
@@ -415,7 +413,7 @@
       </trans-unit>
       <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
         <source>Content Types in '%identifier%'</source>
-        <target state="translated">Inhaltstypen in '% bezeichner%'</target>
+        <target state="translated">Inhaltstypen in '%identifier%'</target>
         <note>key: content_type.view.list.title</note>
       </trans-unit>
       <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add">
@@ -425,7 +423,7 @@
       </trans-unit>
       <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit">
         <source>Editing Content Type group '%identifier%'</source>
-        <target state="translated">Bearbeiten der Inhaltstypgruppe '% bezeichner%'</target>
+        <target state="translated">Bearbeiten der Inhaltstypgruppe '%identifier%'</target>
         <note>key: content_type_group.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
@@ -450,7 +448,7 @@
       </trans-unit>
       <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
         <source>Created Content Type group '%name%'.</source>
-        <target state="translated">Erstellte Inhaltstypgruppe '% name%'.</target>
+        <target state="translated">Erstellte Inhaltstypgruppe '%name%'.</target>
         <note>key: content_type_group.create.success</note>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
@@ -460,7 +458,7 @@
       </trans-unit>
       <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
         <source>Deleted Content Type group '%name%'.</source>
-        <target state="translated">Gelöschte Inhaltstypgruppe '% name%'.</target>
+        <target state="translated">Gelöschte Inhaltstypgruppe '%name%'.</target>
         <note>key: content_type_group.delete.success</note>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
@@ -480,7 +478,7 @@
       </trans-unit>
       <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
         <source>Updated Content Type group '%name%'.</source>
-        <target state="translated">Aktualisierte Inhaltstypgruppe '% name%'.</target>
+        <target state="translated">Aktualisierte Inhaltstypgruppe '%name%'.</target>
         <note>key: content_type_group.update.success</note>
       </trans-unit>
       <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
@@ -490,7 +488,7 @@
       </trans-unit>
       <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title">
         <source>Editing Content Type group '%identifier%'</source>
-        <target state="translated">Bearbeiten der Inhaltstypgruppe '% bezeichner%'</target>
+        <target state="translated">Bearbeiten der Inhaltstypgruppe '%identifier%'</target>
         <note>key: content_type_group.view.edit.title</note>
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">

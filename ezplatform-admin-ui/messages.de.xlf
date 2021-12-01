@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
         <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
-        <target state="translated">Ihr aktuelles Passwort läuft in% Tagen% Tag (en) ab. Sie können es in den Benutzereinstellungen / Meine Kontoeinstellungen ändern.</target>
+        <target state="translated">Ihr aktuelles Passwort läuft in %days% Tag(en) ab. Sie können es in den Benutzereinstellungen / Meine Kontoeinstellungen ändern.</target>
         <note>key: authentication.credentials_expire_in.warning</note>
       </trans-unit>
       <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
         <source><![CDATA[Copyright &#169; IBEXA 1999-%current_year%]]></source>
-        <target state="translated"><![CDATA[Copyright & # 169; IBEXA 1999-% current_year%]]></target>
+        <target state="translated"><![CDATA[Copyright &#169; IBEXA 1999-%current_year%]]></target>
         <note>key: base.footer_copyright</note>
       </trans-unit>
       <trans-unit id="c82a33e6a2272aab44ff7b78c90817c0fc8768cb" resname="base.need_assistance">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
         <source><![CDATA[Visit the official documentation %ez_documentation_link%<br/>or get in touch with us: %ez_contact_link%]]></source>
-        <target state="translated"><![CDATA[Besuchen Sie die offizielle Dokumentation% ez_documentation_link% <br/> oder setzen Sie sich mit uns in Verbindung:% ez_contact_link%]]></target>
+        <target state="translated"><![CDATA[Besuchen Sie die offizielle Dokumentation %ez_documentation_link%<br/> oder setzen Sie sich mit uns in Verbindung: %ez_contact_link%]]></target>
         <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
         <source>You don't have permissions to view this Content item (contentID: %contentId%).</source>
-        <target state="translated">Sie haben keine Berechtigung zum Anzeigen dieses Inhaltselements (contentID:% contentId%).</target>
+        <target state="translated">Sie haben keine Berechtigung zum Anzeigen dieses Inhaltselements (contentID: %contentId%).</target>
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Please contact your Administrator to request access to this content or modify your profile.<br/>Otherwise, go back to <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
-        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um Zugriff auf diesen Inhalt anzufordern oder Ihr Profil zu ändern. <br/> Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%"> Dashboard </a> oder <einer Klasse zurück = "error-page__link" href = "% search%"> Suche </a> nach einem anderen Inhaltselement.]]></target>
+        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um Zugriff auf diesen Inhalt anzufordern oder Ihr Profil zu ändern.<br/> Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%">Dashboard</a> zurück oder <a class="error-page__link" href="%search%">suchen</a> Sie nach einem anderen Inhaltselement.]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
       <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
         <source><![CDATA[Check the URL for a typo and try again.<br/>Otherwise, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
-        <target state="translated"><![CDATA[Überprüfen Sie die URL auf Tippfehler und versuchen Sie es erneut. Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%"> Dashboard </a> oder <a class = "error- zurück. page__link "href ="% search% "> Suche </a> nach einem anderen Inhaltselement.]]></target>
+        <target state="translated"><![CDATA[Überprüfen Sie die URL auf Tippfehler und versuchen Sie es erneut. Andernfalls kehren Sie zum <a class="error-page__link" href="%dashboard%">Dashboard</a> zurück oder <a class="error-page__link" href="%search%">suchen</a> Sie nach einem anderen Inhaltselement.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[<b>Contact your Administrator and inform them about</b><br/> the time the error occurred, the URL in your browser window, and anything related<br/>that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
-        <target state="translated"><![CDATA[<b> Wenden Sie sich an Ihren Administrator und informieren Sie ihn über </ b> <br/> den Zeitpunkt des Auftretens des Fehlers, die URL in Ihrem Browserfenster und alles, was Ihrer Meinung nach den Fehler verursacht haben könnte. <br / > Sie können auch zurückgehen oder versuchen, die Anwendung neu zu laden.]]></target>
+        <target state="translated"><![CDATA[<b> Wenden Sie sich an Ihren Administrator und informieren Sie ihn über </b><br/> den Zeitpunkt des Auftretens des Fehlers, die URL in Ihrem Browserfenster und alles, was Ihrer Meinung nach den Fehler verursacht haben könnte.<br/>Sie können auch zurückgehen oder versuchen, die Anwendung neu zu laden.]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
@@ -301,12 +301,12 @@
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
-        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich <a href="%login%"> bei </a> bei eZ Platform anmelden.]]></target>
+        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich bei eZ Platform <a href="%login%">anmelden</a> .]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
         <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
-        <target state="translated"><![CDATA[Copyright & Kopie; % Jahr% Steinbock. Alle Rechte vorbehalten]]></target>
+        <target state="translated"><![CDATA[Copyright &copy; %year% Ibexa. Alle Rechte vorbehalten]]></target>
         <note>key: footer.copyright</note>
       </trans-unit>
       <trans-unit id="9108451fc15edd434efe02a84ea849c334073272" resname="footer.ibexa_documentation">
@@ -441,17 +441,17 @@
       </trans-unit>
       <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
         <source>'%content_name%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</source>
-        <target state="translated">'% content_name%' hat 1 oder mehrere Asset-Felder. Sie haben die Möglichkeit, nur das Inhaltselement an den Papierkorb zu senden oder das Inhaltselement und seine Assets an den Papierkorb zu senden. Bitte wählen Sie Ihre Option:</target>
+        <target state="translated">'%content_name%' hat 1 oder mehrere Asset-Felder. Sie haben die Möglichkeit, nur das Inhaltselement an den Papierkorb zu senden oder das Inhaltselement und seine Assets an den Papierkorb zu senden. Bitte wählen Sie Ihre Option:</target>
         <note>key: trash_asset_single.modal.message_main</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
         <source>Sending '%content_name%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
-        <target state="translated">Durch das Senden von '% content_name%' und seiner% children_count% -Inhaltselemente an den Papierkorb werden auch die Unterelemente dieses Speicherorts an den Papierkorb gesendet.</target>
+        <target state="translated">Durch das Senden von '%content_name%' und seiner %children_count% Inhaltselemente an den Papierkorb werden auch die Unterelemente dieses Speicherorts an den Papierkorb gesendet.</target>
         <note>key: trash_container.modal.message_main</note>
       </trans-unit>
       <trans-unit id="ef4df0dede01e561e75568aa128a8092cbbee66a" resname="trash_container.modal.message_relations">
         <source>'%content_name%' is in use by %reverse_relations% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
-        <target state="translated">'% content_name%' wird von% reverse_relations% Content item (s) verwendet. Sie sollten alle umgekehrten Beziehungen entfernen, bevor Sie das Inhaltselement löschen.</target>
+        <target state="translated">'%content_name%' wird von %reverse_relations% Content item (s) verwendet. Sie sollten alle umgekehrten Beziehungen entfernen, bevor Sie das Inhaltselement löschen.</target>
         <note>key: trash_container.modal.message_relations</note>
       </trans-unit>
     </body>

@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="614b91c467f0ca438989a4e49e78652a1f4565f3" resname="diff.ago.day">
         <source>1 day ago|%count% days ago</source>
-        <target state="translated">vor 1 Tag| vor%count% Tagen</target>
+        <target state="translated">vor 1 Tag|vor %count% Tagen</target>
         <note>key: diff.ago.day</note>
       </trans-unit>
       <trans-unit id="b3caf2127ff7fb3fd977af365ec4f104d6ab7687" resname="diff.ago.hour">
         <source>1 hour ago|%count% hours ago</source>
-        <target state="translated">vor 1 Stunde| vor%count% Stunden</target>
+        <target state="translated">vor 1 Stunde|vor %count% Stunden</target>
         <note>key: diff.ago.hour</note>
       </trans-unit>
       <trans-unit id="0f2fbc7aab2cdee45a9a33d5a240469b3c18bfdc" resname="diff.ago.minute">
         <source>1 minute ago|%count% minutes ago</source>
-        <target state="translated">vor 1 Minute| vor%count% Minuten</target>
+        <target state="translated">vor 1 Minute|vor %count% Minuten</target>
         <note>key: diff.ago.minute</note>
       </trans-unit>
       <trans-unit id="4423772b70e920742bdbd9e1d0af26584ad78a9f" resname="diff.ago.month">
         <source>1 month ago|%count% months ago</source>
-        <target state="translated">vor 1 Monat| vor%count% Monaten</target>
+        <target state="translated">vor 1 Monat|vor %count% Monaten</target>
         <note>key: diff.ago.month</note>
       </trans-unit>
       <trans-unit id="c975933018445b92dca8aff134de3b3fb93faad3" resname="diff.ago.second">
         <source>1 second ago|%count% seconds ago</source>
-        <target state="translated">vor 1 Sekunde| vor%count% Sekunden</target>
+        <target state="translated">vor 1 Sekunde|vor %count% Sekunden</target>
         <note>key: diff.ago.second</note>
       </trans-unit>
       <trans-unit id="082fd9b2eb27ef4e774a9c0e4b88d2c3b65ea39d" resname="diff.ago.year">
         <source>1 year ago|%count% years ago</source>
-        <target state="translated">vor 1 Jahr| vor%count% Jahren</target>
+        <target state="translated">vor 1 Jahr|vor %count% Jahren</target>
         <note>key: diff.ago.year</note>
       </trans-unit>
       <trans-unit id="bd18289c52fecba36c08dfd086cee6366ae2f943" resname="diff.empty">

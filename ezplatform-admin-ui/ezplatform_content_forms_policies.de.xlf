@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
         <source>Subtree</source>
-        <target state="translated">Unterkonstruktion</target>
+        <target state="translated">Teilbaum</target>
         <note>key: policy.limitation.identifier.subtree</note>
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">

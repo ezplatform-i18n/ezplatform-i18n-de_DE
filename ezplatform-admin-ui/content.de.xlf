@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
         <source>Content ID: %contentId%</source>
-        <target state="translated">Inhalts-ID:% contentId%</target>
+        <target state="translated">Inhalts-ID: %contentId%</target>
         <note>key: content.details.content_id</note>
       </trans-unit>
       <trans-unit id="fbf8f503b8af11a779316ffa7e12085401212748" resname="content.details.created_by">
         <source>Created by %name%</source>
-        <target state="translated">Erstellt von% name%</target>
+        <target state="translated">Erstellt von %name%</target>
         <note>key: content.details.created_by</note>
       </trans-unit>
       <trans-unit id="b703ce905c39239f607ffa395acf83d2dd6046f0" resname="content.details.location_id">
@@ -93,17 +93,17 @@
       </trans-unit>
       <trans-unit id="07b56fa9149c034a5b2f562d77e094e381618b22" resname="content_edit.autosave.message">
         <source><![CDATA[<b>Autosave</b> is on.]]></source>
-        <target state="translated"><![CDATA[<b> Automatisch speichern </ b> ist aktiviert.]]></target>
+        <target state="translated"><![CDATA[<b>Automatisch speichern</b> ist aktiviert.]]></target>
         <note>key: content_edit.autosave.message</note>
       </trans-unit>
       <trans-unit id="fab6f6efafaeec371aaa8302c82362846d2b8f69" resname="content_edit.last_saved">
         <source>Last saved draft was on %date%</source>
-        <target state="translated">Der zuletzt gespeicherte Entwurf war am% Datum%</target>
+        <target state="translated">Der zuletzt gespeicherte Entwurf war am %date%</target>
         <note>key: content_edit.last_saved</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source><![CDATA[<b>in</b> %language_name% <b>under</b> %location_name%]]></source>
-        <target state="translated"><![CDATA[<b> in </ b>% Sprachname% <b> unter </ b>% Standortname%]]></target>
+        <target state="translated"><![CDATA[<b>in</b> %language_name% <b>unter</b> %location_name%]]></target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="583285bb674e4f29b273ceb4b19dc700e44c4130" resname="tooltip.close_label">

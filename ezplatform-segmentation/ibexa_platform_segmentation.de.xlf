@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="c06f283e90ae30cc2ef96139e4d26f742f5c3562" resname="segment.update.success">
         <source>Segment '%name%' updated.</source>
-        <target state="translated">Segment '% name%' aktualisiert.</target>
+        <target state="translated">Segment '%name%' aktualisiert.</target>
         <note>key: segment.update.success</note>
       </trans-unit>
       <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="7e946592cc59b778faf63d3a840e42d87ff00a26" resname="segment_group.create.success">
         <source>Segment Group '%segment_group%' created.</source>
-        <target state="translated">Segmentgruppe '% segment_group%' erstellt.</target>
+        <target state="translated">Segmentgruppe '%segment_group%' erstellt.</target>
         <note>key: segment_group.create.success</note>
       </trans-unit>
       <trans-unit id="2acd53f897aff262b550d178a9d43a44733cfd88" resname="segment_group.delete.success">
         <source>Segment Group '%segment_group%' removed.</source>
-        <target state="translated">Segmentgruppe '% segment_group%' entfernt.</target>
+        <target state="translated">Segmentgruppe '%segment_group%' entfernt.</target>
         <note>key: segment_group.delete.success</note>
       </trans-unit>
       <trans-unit id="ec792bba69b58c2f454919e5e5558d0d1c9c5a32" resname="segment_group.identifier">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="ac3219c4ef255cc200f1c7cfdaf3191a0be5de39" resname="segment_group.update.success">
         <source>Segment Group '%segment_group%' updated.</source>
-        <target state="translated">Segmentgruppe '% segment_group%' aktualisiert.</target>
+        <target state="translated">Segmentgruppe '%segment_group%' aktualisiert.</target>
         <note>key: segment_group.update.success</note>
       </trans-unit>
       <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="4b214c3455a6420302898a01be560c8fab90c295" resname="segment_groups.list.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[Zeige <strong>%viewing%</strong> von <strong>%total%</strong> Einträgen]]></target>
         <note>key: segment_groups.list.viewing</note>
       </trans-unit>
       <trans-unit id="0265d77024894b8b89822d0275d9e5c60a2f5363" resname="segment_groups.segment_list.empty">

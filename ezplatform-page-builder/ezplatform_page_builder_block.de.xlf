@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="106df4dc953df10cee4ddc93d7f0665d42d0cbe4" resname="general.render_error">
         <source>Block %name% could not be rendered due to an internal error.</source>
-        <target state="translated">Block% name% konnte aufgrund eines internen Fehlers nicht gerendert werden.</target>
+        <target state="translated">Block %name% konnte aufgrund eines internen Fehlers nicht gerendert werden.</target>
         <note>key: general.render_error</note>
       </trans-unit>
     </body>

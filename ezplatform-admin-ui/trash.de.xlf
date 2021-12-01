@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="937a500a6ede32aeaf33dcc2bfc7233578c8e48c" resname="trash.creator">
         <source>Creator</source>
-        <target state="translated">Schöpfer</target>
+        <target state="translated">Ersteller</target>
         <note>key: trash.creator</note>
       </trans-unit>
       <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="a8c2da925faa48def8e407037a6115f1340070c7" resname="trash.restore_new_location.success">
         <source>Restored content under Location '%location%'.</source>
-        <target state="translated">Wiederhergestellter Inhalt unter Standort '% location%'.</target>
+        <target state="translated">Wiederhergestellter Inhalt unter Standort '%location%'.</target>
         <note>key: trash.restore_new_location.success</note>
       </trans-unit>
       <trans-unit id="d4e8ddb6a84d9ca3a3b39485e9b7c5ef2860d879" resname="trash.restore_original_location.success">

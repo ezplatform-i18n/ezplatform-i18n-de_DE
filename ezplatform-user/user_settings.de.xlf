@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="7f90e23e086f56c5f7b4a82c6e4b8f40732e6e6a" resname="user_setting.update.success">
         <source>User setting '%identifier%' updated.</source>
-        <target state="translated">Benutzereinstellung '% identifier%' aktualisiert.</target>
+        <target state="translated">Benutzereinstellung '%identifier%' aktualisiert.</target>
         <note>key: user_setting.update.success</note>
       </trans-unit>
     </body>

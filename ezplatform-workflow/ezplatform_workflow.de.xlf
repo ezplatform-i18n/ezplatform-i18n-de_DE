@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="3edbcdd64ab409f29ba5c7fd3a91f98f3d868ea6" resname="dashboard.table.activity.edited_on_by_user">
         <source>Edited by %creatorName% %relativeTime%</source>
-        <target state="translated">Bearbeitet von% creatorname %% relativeTime%</target>
+        <target state="translated">Bearbeitet von %creatorName% %relativeTime%</target>
         <note>key: dashboard.table.activity.edited_on_by_user</note>
       </trans-unit>
       <trans-unit id="12689e8f5d888ba5fe75fa028d62a06a94e2881c" resname="dashboard.table.activity.edited_on_no_user">
         <source>Edited %relativeTime%</source>
-        <target state="translated">% RelativeTime% bearbeitet</target>
+        <target state="translated">%RelativeTime% bearbeitet</target>
         <note>key: dashboard.table.activity.edited_on_no_user</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
         <note>key: location_view.tab.versions.pagination.viewing</note>
       </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">
@@ -150,7 +150,7 @@
       </trans-unit>
       <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
         <source>Stage changed to %stageNames%</source>
-        <target state="translated">Stage wurde in% stageNames% geändert</target>
+        <target state="translated">Stage wurde in %stageNames% geändert</target>
         <note>key: transition.list.entry.title</note>
       </trans-unit>
       <trans-unit id="b68f65d4e6b1cef42c9c47203c4d64505b5e6e33" resname="widget.message">
@@ -210,7 +210,7 @@
       </trans-unit>
       <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
         <source>No content to review. Content item(s) to review in the %stageName% stage will show up here.</source>
-        <target state="translated">Kein Inhalt zu überprüfen. Hier werden Inhaltselemente angezeigt, die in der Phase% stageName% überprüft werden sollen.</target>
+        <target state="translated">Kein Inhalt zu überprüfen. Hier werden Inhaltselemente angezeigt, die in der Phase %stageName% überprüft werden sollen.</target>
         <note>key: workflow.view.content_list.table.empty</note>
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
@@ -225,12 +225,12 @@
       </trans-unit>
       <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
         <source>Content in %stageName% stage (%count%)</source>
-        <target state="translated">Inhalt in% stageName% stage (% count%)</target>
+        <target state="translated">Inhalt in %stageName% stage (%count%)</target>
         <note>key: workflow.view.content_list.table.title</note>
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Artikeln werden angezeigt]]></target>
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">

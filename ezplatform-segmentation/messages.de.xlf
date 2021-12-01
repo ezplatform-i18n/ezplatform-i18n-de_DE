@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="8e5b8c40a6aa73f8ede20d4ac743d6467de784fd" resname="Could not find Segment Group for '%identifier%'">
         <source>Could not find Segment Group for '%identifier%'</source>
-        <target state="translated">Segmentgruppe für '% identifier%' konnte nicht gefunden werden</target>
+        <target state="translated">Segmentgruppe für '%identifier%' konnte nicht gefunden werden</target>
         <note>key: Could not find Segment Group for '%identifier%'</note>
       </trans-unit>
       <trans-unit id="cd4af8959bca9e07afe60d305e63e11958455c45" resname="Could not find Segment for '%identifier%'">
         <source>Could not find Segment for '%identifier%'</source>
-        <target state="translated">Segment für '% identifier%' konnte nicht gefunden werden</target>
+        <target state="translated">Segment für '%identifier%' konnte nicht gefunden werden</target>
         <note>key: Could not find Segment for '%identifier%'</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">

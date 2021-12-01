@@ -46,6 +46,11 @@
         <target state="translated">Inhalt auswählen</target>
         <note>key: select.content</note>
       </trans-unit>
+      <trans-unit id="cc90fcb1fe96f887d06d7148fd31b9a26de1bfaf" resname="type.different.field.name">
+        <source>Field name '%oldFieldName%' is already in use.</source>
+        <target state="translated">Feldname '%oldFieldName%' wird bereits verwendet.</target>
+        <note>key: type.different.field.name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

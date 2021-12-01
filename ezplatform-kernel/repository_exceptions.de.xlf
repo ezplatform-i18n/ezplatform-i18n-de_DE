@@ -165,7 +165,7 @@
       </trans-unit>
       <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given context">
         <source>Path '%path%' already exists for the given context</source>
-        <target state="translated">Der Pfad '% path%' ist für den angegebenen Kontext bereits vorhanden</target>
+        <target state="translated">Der Pfad '%path%' ist für den angegebenen Kontext bereits vorhanden</target>
         <note>key: Path '%path%' already exists for the given context</note>
         <jms:reference-file line="397">eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>

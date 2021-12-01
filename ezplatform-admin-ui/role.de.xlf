@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="d92993cb4cb3690f06c599b5f500a29fa23421c9" resname="policy.add.success">
         <source>Created new Policies in Role '%role%'.</source>
-        <target state="translated">Neue Richtlinien in Rolle '% role%' erstellt.</target>
+        <target state="translated">Neue Richtlinien in Rolle '%role%' erstellt.</target>
         <note>key: policy.add.success</note>
       </trans-unit>
       <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="8a22274ebbfba3c96c4015fa64112db95d060525" resname="policy.delete.success">
         <source>Removed Policies from Role '%role%'.</source>
-        <target state="translated">Richtlinien aus Rolle '% role%' entfernt.</target>
+        <target state="translated">Richtlinien aus Rolle '%role%' entfernt.</target>
         <note>key: policy.delete.success</note>
       </trans-unit>
       <trans-unit id="9c322357fb302e5b708bc1c11c287d8a4e4859ec" resname="policy.edit.no_limitations">
         <source>Policy type '%policy%' does not contain Limitations.</source>
-        <target state="translated">Der Richtlinientyp '% policy%' enthält keine Einschränkungen.</target>
+        <target state="translated">Der Richtlinientyp '%policy%' enthält keine Einschränkungen.</target>
         <note>key: policy.edit.no_limitations</note>
       </trans-unit>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="bb8f2aa78c28aa25b5eade0c7f40c37110110ec5" resname="policy.update.success">
         <source>Updated Policies in Role '%role%'.</source>
-        <target state="translated">Aktualisierte Richtlinien in Rolle '% role%'.</target>
+        <target state="translated">Aktualisierte Richtlinien in Rolle '%role%'.</target>
         <note>key: policy.update.success</note>
       </trans-unit>
       <trans-unit id="1ac24fa007363b4280663fba53f7a3b436ed4c8f" resname="policy.view.add.title">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="e2b7ae0acb75f99dc7943574a63b36abbb6c42bf" resname="role.assignment_create.success">
         <source>Assigned Users/Groups to Role '%role%'.</source>
-        <target state="translated">Zugewiesene Benutzer / Gruppen der Rolle '% role%'.</target>
+        <target state="translated">Zugewiesene Benutzer / Gruppen der Rolle '%role%'.</target>
         <note>key: role.assignment_create.success</note>
       </trans-unit>
       <trans-unit id="f684c343da285bc7273d4671a257d2731ccc83a2" resname="role.assignment_delete.success">
         <source>Unassigned Users/Groups from Role '%role%'.</source>
-        <target state="translated">Nicht zugewiesene Benutzer / Gruppen aus Rolle '% role%'.</target>
+        <target state="translated">Nicht zugewiesene Benutzer / Gruppen aus Rolle '%role%'.</target>
         <note>key: role.assignment_delete.success</note>
       </trans-unit>
       <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
@@ -153,12 +153,12 @@
       </trans-unit>
       <trans-unit id="6d6d3ca79dd8c306ac2fcd89725ccbe5f8ee9f4e" resname="role.breadcrumb.copy">
         <source>Copying Role: %identifier%</source>
-        <target state="translated">Kopierrolle:% bezeichner%</target>
+        <target state="translated">Kopierrolle: %identifier%</target>
         <note>key: role.breadcrumb.copy</note>
       </trans-unit>
       <trans-unit id="9cdc3dd417b63308f19cadbe01f74c21565b9947" resname="role.breadcrumb.edit">
         <source>Editing Role '%identifier%'</source>
-        <target state="translated">Bearbeiten der Rolle '% identifier%'</target>
+        <target state="translated">Bearbeiten der Rolle '%identifier%'</target>
         <note>key: role.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="8b6bc2aae1a109d9409a20ad4516e0eaf6ca72d4" resname="role.copy.success">
         <source>Role '%role%' copied.</source>
-        <target state="translated">Rolle '% role%' kopiert.</target>
+        <target state="translated">Rolle '%role%' kopiert.</target>
         <note>key: role.copy.success</note>
       </trans-unit>
       <trans-unit id="59754dcca61db396ef9de8abd3aa63645bd50f65" resname="role.create.success">
@@ -208,12 +208,12 @@
       </trans-unit>
       <trans-unit id="6f6e274dd8d21241d5bb3d647b1089c939e84313" resname="role.view.copy.title">
         <source>Copying Role: %identifier%</source>
-        <target state="translated">Kopierrolle:% bezeichner%</target>
+        <target state="translated">Kopierrolle: %identifier%</target>
         <note>key: role.view.copy.title</note>
       </trans-unit>
       <trans-unit id="d3938c40d50b4d6e972248900f2d43cda1fe02a3" resname="role.view.edit.title">
         <source>Editing Role '%identifier%'</source>
-        <target state="translated">Bearbeiten der Rolle '% identifier%'</target>
+        <target state="translated">Bearbeiten der Rolle '%identifier%'</target>
         <note>key: role.view.edit.title</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">

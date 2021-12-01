@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="664d2e29c7d676aa99c558d7d2bb663168b70e8e" resname="version_info.comparison.select_name">
         <source>%status% - Version %version% - %language%</source>
-        <target state="translated">% status% - Version% version% -% language%</target>
+        <target state="translated">%status% - Version %version% - %language%</target>
         <note>key: version_info.comparison.select_name</note>
       </trans-unit>
       <trans-unit id="a7f78628f4533483d54c7648511cc2720d9eda45" resname="version_info.comparison.select_placeholder">

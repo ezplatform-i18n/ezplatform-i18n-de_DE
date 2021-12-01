@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7f5b557877d0f5c0f1edc65368efcdfe472df3d8" resname="form.validate.error">
         <source>%fieldName% Field is required</source>
-        <target state="translated">% fieldName% Field ist erforderlich</target>
+        <target state="translated">%fieldName% Field ist erforderlich</target>
         <note>key: form.validate.error</note>
       </trans-unit>
       <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">

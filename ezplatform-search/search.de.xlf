@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
         <source>Search results (%total%)</source>
-        <target state="translated">Suchergebnisse (% total%)</target>
+        <target state="translated">Suchergebnisse (%total%)</target>
         <note>key: search.header</note>
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="8c11cc36acf58db9ff898f3a4cf02fd0fc293f67" resname="search.no_result">
         <source>No results found for "%query%".</source>
-        <target state="translated">Für "% query%" wurden keine Ergebnisse gefunden.</target>
+        <target state="translated">Für "%query%" wurden keine Ergebnisse gefunden.</target>
         <note>key: search.no_result</note>
       </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">

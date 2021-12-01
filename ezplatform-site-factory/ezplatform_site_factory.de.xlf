@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="8a848dd69c514b773958b84bc5973ce638a8c0c3" resname="edit_site">
         <source>Site "%name%"</source>
-        <target state="translated">Site "% name%"</target>
+        <target state="translated">Site "%name%"</target>
         <note>key: edit_site</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="a9fb803a701f3226aff42f2d5ad2b87c4a5fbac3" resname="site.create.success">
         <source>Site '%name%' has been created.</source>
-        <target state="translated">Die Site '% name%' wurde erstellt.</target>
+        <target state="translated">Die Site '%name%' wurde erstellt.</target>
         <note>key: site.create.success</note>
       </trans-unit>
       <trans-unit id="c9d452254d19fafeec83d25b6b537cb3d8362f91" resname="site.creating">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="d0276207f7c538aa63b6aa105be2fc682ed8ec60" resname="site.delete.success">
         <source>Site '%name%' removed.</source>
-        <target state="translated">Site '% name%' entfernt.</target>
+        <target state="translated">Site '%name%' wurde entfernt.</target>
         <note>key: site.delete.success</note>
       </trans-unit>
       <trans-unit id="007ba6d0de07ea286428b4fc70e7dc1f7387efe5" resname="site.edit">
         <source>Editing Site "%name%"</source>
-        <target state="translated">Bearbeiten der Site "% name%"</target>
+        <target state="translated">Bearbeiten der Site "%name%"</target>
         <note>key: site.edit</note>
       </trans-unit>
       <trans-unit id="aef7dfbda52feec2df0703dc800138796d3b7bfd" resname="site.factory.page.status.building">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
         <source>Site '%name%' has been update.</source>
-        <target state="translated">Die Site '% name%' wurde aktualisiert.</target>
+        <target state="translated">Die Site '%name%' wurde aktualisiert.</target>
         <note>key: site.update.success</note>
       </trans-unit>
       <trans-unit id="f8743f73809e6c5aeae34e151e0f9ce5fa7066ce" resname="site.view.create">

@@ -18,9 +18,7 @@
       </trans-unit>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source>Viewing %viewing% out of %total% items</source>
-        <target state="translated">Anzeigen von% Anzeigen von% von% Gesamt% Elementen
-
-</target>
+        <target state="translated">%viewing% von %total% Elemente werden angezeigt</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>

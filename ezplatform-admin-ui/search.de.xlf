@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
         <source>Creator</source>
-        <target state="translated">Schöpfer</target>
+        <target state="translated">Ersteller</target>
         <note>key: search.creator</note>
       </trans-unit>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="8c11cc36acf58db9ff898f3a4cf02fd0fc293f67" resname="search.no_result">
         <source>No results found for "%query%".</source>
-        <target state="translated">Für "% query%" wurden keine Ergebnisse gefunden.</target>
+        <target state="translated">Für "%query%" wurden keine Ergebnisse gefunden.</target>
         <note>key: search.no_result</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
