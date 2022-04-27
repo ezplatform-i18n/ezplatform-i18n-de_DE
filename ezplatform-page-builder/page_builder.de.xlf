@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
         <source>Block settings</source>
-        <target state="translated">Einstellungen blockieren</target>
+        <target state="translated">Blockeinstellungen</target>
         <note>key: block.settings</note>
       </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
@@ -90,11 +90,6 @@
         <source>Some blocks are missing configuration</source>
         <target state="translated">Bei einigen Blöcken fehlt die Konfiguration</target>
         <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
-      </trans-unit>
-      <trans-unit id="9883bd31212048bc2352b92dcc30b541e6eac5b5" resname="layout_selector.close.label">
-        <source>Close</source>
-        <target state="translated">Schließen</target>
-        <note>key: layout_selector.close.label</note>
       </trans-unit>
       <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
         <source>Create draft</source>

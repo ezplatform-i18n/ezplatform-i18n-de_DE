@@ -56,11 +56,6 @@
         <target state="translated">-</target>
         <note>key: site.list.no_sites</note>
       </trans-unit>
-      <trans-unit id="25638252c36c08f88974b99ac4fb484b52b168b8" resname="site.list.title">
-        <source>Sites (%count%)</source>
-        <target state="translated">Sites (%count%)</target>
-        <note>key: site.list.title</note>
-      </trans-unit>
       <trans-unit id="f2f1dd53787cf1ab3289b6c1f1aa4c9b0ead41e4" resname="site.locked">
         <source>Edit the site in config files</source>
         <target state="translated">Bearbeiten Sie die Site in Konfigurationsdateien</target>

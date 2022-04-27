@@ -193,9 +193,7 @@
       </trans-unit>
       <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
         <source>No content scheduled for publication.</source>
-        <target state="translated">Kein Inhalt zur Veröffentlichung geplant.
-
-</target>
+        <target state="translated">Kein Inhalt zur Veröffentlichung geplant.</target>
         <note>key: dashboard.tab.all_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="9264d8cfa846c33592bb9c75fc27d3746b79b069" resname="dashboard.tab.my_scheduled.empty">

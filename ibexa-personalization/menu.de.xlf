@@ -31,11 +31,6 @@
         <target state="translated">Szenarien</target>
         <note>key: main__personalization__scenarios</note>
       </trans-unit>
-      <trans-unit id="b2dbb456239263e863d42b34ed48f1d8e6424de7" resname="main__personalization__settings">
-        <source>Settings</source>
-        <target state="translated">die Einstellungen</target>
-        <note>key: main__personalization__settings</note>
-      </trans-unit>
       <trans-unit id="bb50202605dd9a666dec38fc77048a1fac02f0d8" resname="scenario_create__sidebar_right__create">
         <source>Save</source>
         <target state="translated">Speichern</target>

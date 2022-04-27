@@ -12,12 +12,12 @@
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
-        <source>Creating</source>
+        <source>Creating %content_type_name%</source>
         <target state="translated">Erstellen</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
-        <source>Editing</source>
+        <source>Editing %content_type_name%</source>
         <target state="translated">Bearbeiten</target>
         <note>key: editing</note>
       </trans-unit>

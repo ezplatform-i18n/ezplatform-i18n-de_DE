@@ -11,11 +11,6 @@
         <target state="translated">Von:</target>
         <note>key: content.review.from</note>
       </trans-unit>
-      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
-        <source>Read more</source>
-        <target state="translated">Weiterlesen</target>
-        <note>key: content.review.read_more</note>
-      </trans-unit>
       <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
         <source>Content is ready for review</source>
         <target state="translated">Der Inhalt kann überprüft werden</target>
@@ -37,7 +32,7 @@
         <note>key: dashboard.block.review_queue.title</note>
       </trans-unit>
       <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
-        <source>No content to review. Content item(s) you or your User group can review will show up here.</source>
+        <source>No content to review.</source>
         <target state="translated">Kein Inhalt zu überprüfen. Inhaltselemente, die Sie oder Ihre Benutzergruppe überprüfen können, werden hier angezeigt.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty</note>
       </trans-unit>
@@ -123,9 +118,7 @@
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
         <source>Drafts to review</source>
-        <target state="translated">Entwürfe zur Überprüfung
-
-</target>
+        <target state="translated">Entwürfe zur Überprüfung</target>
         <note>key: tab.name.my_drafts_under_review</note>
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
@@ -224,14 +217,9 @@
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
       <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
-        <source>Content in %stageName% stage (%count%)</source>
+        <source>Content in %stage_name% stage (%count%)</source>
         <target state="translated">Inhalt in %stageName% stage (%count%)</target>
         <note>key: workflow.view.content_list.table.title</note>
-      </trans-unit>
-      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Artikeln werden angezeigt]]></target>
-        <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
         <source>Workflow diagram</source>

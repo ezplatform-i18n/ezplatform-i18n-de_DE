@@ -47,9 +47,7 @@
       </trans-unit>
       <trans-unit id="d620cc5d1f36ef74cbf6c042e07c0ad89bf47d9f" resname="dashboard.ez_version.trial_end_of_maintenance">
         <source>Your trial period is coming to an end.</source>
-        <target state="translated">Ihre Probezeit geht zu Ende.
-
-</target>
+        <target state="translated">Ihre Probezeit geht zu Ende.</target>
         <note>key: dashboard.ez_version.trial_end_of_maintenance</note>
       </trans-unit>
       <trans-unit id="7b47468c70176c3f6c78ca0e29b1378e2685d2e1" resname="dashboard.ez_version.trial_contact">
@@ -85,9 +83,7 @@
         <source><![CDATA[Welcome to %name%, check our <a target="_blank" href="%doc_url%">online documentation</a>, <a target="_blank" href="%consulting_url%">consulting</a>
                     or <a target="_blank" href="%training_url%">training</a> services in order to get the most out of your trial.]]></source>
         <target state="translated"><![CDATA[Willkommen bei% name%. Lesen Sie unsere <a target="_blank" href="%doc_url%"> Online-Dokumentation </a>, <a target="_blank" href="%consulting_url%"> Beratung </a>
-                    oder <a target="_blank" href="%training_url%"> Schulungsdienste </a>, um das Beste aus Ihrer Testversion herauszuholen.
-
-]]></target>
+                    oder <a target="_blank" href="%training_url%"> Schulungsdienste </a>, um das Beste aus Ihrer Testversion herauszuholen.]]></target>
         <note>key: dashboard.ez_version.trial_notice</note>
       </trans-unit>
       <trans-unit id="10afa9a6e250d82f948ea1e6cbcdf7aac8bd7a4b" resname="dashboard.ez_version.trial_expired">

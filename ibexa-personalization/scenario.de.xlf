@@ -66,50 +66,15 @@
         <target state="translated"><![CDATA[Benutzerattribut hat einen anderen Namen <strong>%attr_name%</strong>]]></target>
         <note>key: ibexa_personalization.scenario.user_attribute_has_different_name</note>
       </trans-unit>
-      <trans-unit id="51dae687367d3979c98400d6b93fad3b8f774dfd" resname="preview.gallery.no_recommendations">
-        <source>No recomendations available</source>
-        <target state="translated">Keine Empfehlungen verfügbar</target>
-        <note>key: preview.gallery.no_recommendations</note>
-      </trans-unit>
-      <trans-unit id="8400357d8373649767321ac2086afcf5b44b947d" resname="preview.generate_recommendation_call">
-        <source>Generate recommendation call</source>
-        <target state="translated">Empfehlungsaufruf generieren</target>
-        <note>key: preview.generate_recommendation_call</note>
-      </trans-unit>
       <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
         <source>Generated url</source>
         <target state="translated">Generierte Url</target>
         <note>key: preview.generated_url</note>
       </trans-unit>
-      <trans-unit id="f7fdc2f5ad9fadf93c65ddf827a7c44f0ae7aecc" resname="preview.hide_json">
-        <source>Hide</source>
-        <target state="translated">Ausblenden</target>
-        <note>key: preview.hide_json</note>
-      </trans-unit>
-      <trans-unit id="8154028527057fde968ab6eca0e24ea5f2f539e3" resname="preview.recommendation_response">
-        <source>Recommendation response</source>
-        <target state="translated">Antwort der Empfehlung</target>
-        <note>key: preview.recommendation_response</note>
-      </trans-unit>
-      <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
-        <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
-        <target state="translated">Die Art und Weise, wie Empfehlungen wiedergegeben werden, ist nur ein Beispiel. Dies kann vom tatsächlichen Ansatz des Kunden auf der Website abweichen</target>
-        <note>key: preview.recommendation_response_description</note>
-      </trans-unit>
-      <trans-unit id="c9097b20c289b6157e6762c030438edb8ffac4c1" resname="preview.scenario">
-        <source>Scenario preview</source>
-        <target state="translated">Szenariovorschau</target>
-        <note>key: preview.scenario</note>
-      </trans-unit>
       <trans-unit id="f6b27e1c34d4f1dbb53abc36293d7ebb09ae5337" resname="preview.send_request">
         <source>Send request</source>
         <target state="translated">Anfrage senden</target>
         <note>key: preview.send_request</note>
-      </trans-unit>
-      <trans-unit id="3c875a08456b699ed4a27b8ff97c40b100bb67c4" resname="preview.show_json">
-        <source>See response code</source>
-        <target state="translated">Siehe Antwortcode</target>
-        <note>key: preview.show_json</note>
       </trans-unit>
     </body>
   </file>

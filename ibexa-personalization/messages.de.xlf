@@ -11,11 +11,6 @@
         <target state="translated">Personalisierung</target>
         <note>key: breadcrumb.personalization</note>
       </trans-unit>
-      <trans-unit id="6dcacc6573defc140174ccec898eea76633f9857" resname="breadcrumb.settings">
-        <source>Settings</source>
-        <target state="translated"> Einstellungen</target>
-        <note>key: breadcrumb.settings</note>
-      </trans-unit>
       <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
         <source>Collected events</source>
         <target state="translated">Gesammelte Ereignisse</target>
@@ -23,23 +18,13 @@
       </trans-unit>
       <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
         <source>Conversion rate</source>
-        <target state="translated">Wechselkurs</target>
+        <target state="translated">Konversionsrate</target>
         <note>key: dashboard.charts.conversion_rate</note>
       </trans-unit>
       <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
         <source>%start_date% to %end_date%</source>
         <target state="translated">%start_date% bis %end_date%</target>
         <note>key: dashboard.charts.date_time_range</note>
-      </trans-unit>
-      <trans-unit id="300d97f801a0a15e19477e68958304d82f5c7d6a" resname="dashboard.charts.items_purchased">
-        <source>Items purchased</source>
-        <target state="translated">Artikel gekauft</target>
-        <note>key: dashboard.charts.items_purchased</note>
-      </trans-unit>
-      <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
-        <source><![CDATA[No data collected<br/> for the selected period]]></source>
-        <target state="translated"><![CDATA[Keine Daten <br/> für den ausgewählten Zeitraum]]></target>
-        <note>key: dashboard.charts.no_data</note>
       </trans-unit>
       <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
         <source>Recommendation calls</source>
@@ -63,13 +48,8 @@
         <target state="translated">Gekaufte Produkte</target>
         <note>key: dashboard.products_purchased</note>
       </trans-unit>
-      <trans-unit id="25267996ff06c639aa3d9146f290d3fdef0b4139" resname="dashboard.summary.total">
-        <source>Total</source>
-        <target state="translated">Gesamt</target>
-        <note>key: dashboard.summary.total</note>
-      </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
-        <source>Time period</source>
+        <source>Select time range</source>
         <target state="translated">Zeitraum</target>
         <note>key: ibexa_personalization.dashboard.time_period</note>
       </trans-unit>
@@ -107,11 +87,6 @@
         <source>Output type</source>
         <target state="translated">Ausgabetyp</target>
         <note>key: ibexa_personalization.scenario.output_type</note>
-      </trans-unit>
-      <trans-unit id="7b510d8a02e634f345215388e04b20e9861e3033" resname="ibexa_personalization.scenario.scenario_details">
-        <source>Scenario details:</source>
-        <target state="translated">Szenariodetails:</target>
-        <note>key: ibexa_personalization.scenario.scenario_details</note>
       </trans-unit>
       <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
         <source>Scenario name</source>
@@ -153,35 +128,13 @@
         <target state="translated">Benutzerprofileinstellung</target>
         <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
-      <trans-unit id="cc172eeb772f56ea0d29fdd15efa076bbbf7129f" resname="scenario.edit.boost_item">
-        <source>Boost item, if a user has an attribute with the same value.</source>
-        <target state="translated">Boost-Element, wenn ein Benutzer ein Attribut mit demselben Wert hat.</target>
-        <note>key: scenario.edit.boost_item</note>
-      </trans-unit>
-      <trans-unit id="b2fbf7d00a11deb7f74d922ccc6154ab08d9e371" resname="scenario.edit.boost_item_inputs">
-        <source>Attribute name %attribute% boost by %position% positions.</source>
-        <target state="translated">Attributname %attribute% Boost um %position%  Positionen.</target>
-        <note>key: scenario.edit.boost_item_inputs</note>
-      </trans-unit>
       <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
-        <source>%value% Minimum price of the recommended product</source>
+        <source>Minimum price of the recommended product</source>
         <target state="translated">%value% Mindestpreis des empfohlenen Produkts</target>
         <note>key: scenario.edit.exclude_minimal_item_price</note>
       </trans-unit>
-      <trans-unit id="d3c1bd357b04ed2bdbe72fe05c0e9ecb347ade9d" resname="scenario.edit.exclude_repeated_recommendations">
-        <source>%value% Max. repeated shows of identical recommendations per session.</source>
-        <target state="translated">%value% Max. wiederholte Shows identischer Empfehlungen pro Sitzung.
-
-</target>
-        <note>key: scenario.edit.exclude_repeated_recommendations</note>
-      </trans-unit>
-      <trans-unit id="039c68a13a6b98e56db8a37385dbfc13d3bbb500" resname="scenario.edit.strategies">
-        <source>Strategies</source>
-        <target state="translated">Strategien</target>
-        <note>key: scenario.edit.strategies</note>
-      </trans-unit>
       <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
-        <source>User attribute has different name %value%</source>
+        <source>User attribute has different name</source>
         <target state="translated">Benutzerattribut hat einen anderen Namen %value%</target>
         <note>key: scenario.edit.user_attribute_name</note>
       </trans-unit>
@@ -211,7 +164,7 @@
         <note>key: welcome.form.subtitle</note>
       </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
-        <source><![CDATA[I have read and agree to the <a class='ez-welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
+        <source><![CDATA[I have read and agree to the <a class='ibexa-welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
         <target state="translated"><![CDATA[Ich habe die <a class='ez-welcome-content__show-modal-button' href='#'> Allgemeinen Geschäftsbedingungen gelesen und bin damit einverstanden. </a>]]></target>
         <note>key: welcome.form.tems_accept</note>
       </trans-unit>
