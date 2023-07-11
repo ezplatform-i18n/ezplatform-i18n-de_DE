@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+  <file date="2021-05-24T10:05:23Z" source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -10,31 +10,38 @@
         <source>Personalization</source>
         <target state="translated">Personalisierung</target>
         <note>key: breadcrumb.personalization</note>
+        <jms:reference-file line="8">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/settings/edit.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
         <source>Collected events</source>
         <target state="translated">Gesammelte Ereignisse</target>
         <note>key: dashboard.charts.collected_events</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/collected_events.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
         <source>Conversion rate</source>
         <target state="translated">Konversionsrate</target>
         <note>key: dashboard.charts.conversion_rate</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/conversion_rate.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
         <source>%start_date% to %end_date%</source>
         <target state="translated">%start_date% bis %end_date%</target>
         <note>key: dashboard.charts.date_time_range</note>
+        <jms:reference-file line="8">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
         <source>Recommendation calls</source>
         <target state="translated">Empfehlungsaufrufe</target>
         <note>key: dashboard.charts.recommendation_calls</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/recommendation_calls.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
         <source>Revenue</source>
         <target state="translated">Einnahmen</target>
         <note>key: dashboard.charts.revenue</note>
+        <jms:reference-file line="18">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/revenue.html.twig</jms:reference-file>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/revenue.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="a986e297ff8c01767aad268379fa748bab9bb6f4" resname="dashboard.download_report">
         <source>Download full report</source>
@@ -42,141 +49,147 @@
 
 </target>
         <note>key: dashboard.download_report</note>
+        <jms:reference-file line="18">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/form.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d0c209024ce52170ac99fcd4e0f3426bf1b33927" resname="dashboard.products_purchased">
         <source>Products purchased</source>
         <target state="translated">Gekaufte Produkte</target>
         <note>key: dashboard.products_purchased</note>
-      </trans-unit>
-      <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
-        <source>Select time range</source>
-        <target state="translated">Zeitraum</target>
-        <note>key: ibexa_personalization.dashboard.time_period</note>
+        <jms:reference-file line="38">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/commerce.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
         <source>Last 24h</source>
         <target state="translated">Letzte 24h</target>
         <note>key: ibexa_personalization.date_time_range.last_24h</note>
+        <jms:reference-file line="1">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
         <source>Commerce settings</source>
         <target state="translated">Commerce-Einstellungen</target>
         <note>key: ibexa_personalization.scenario.commerce_settings</note>
+        <jms:reference-file line="94">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
         <source>Scenario description</source>
         <target state="translated">Szenariobeschreibung</target>
         <note>key: ibexa_personalization.scenario.description</note>
+        <jms:reference-file line="40">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
         <source>Edit</source>
         <target state="translated">Bearbeiten</target>
         <note>key: ibexa_personalization.scenario.edit_short</note>
+        <jms:reference-file line="15">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
         <source>Scenario ID</source>
         <target state="translated">Szenario-ID</target>
         <note>key: ibexa_personalization.scenario.id</note>
+        <jms:reference-file line="32">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
         <source>Input type</source>
         <target state="translated">Eingabetyp</target>
         <note>key: ibexa_personalization.scenario.input_type</note>
+        <jms:reference-file line="49">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
         <source>Output type</source>
         <target state="translated">Ausgabetyp</target>
         <note>key: ibexa_personalization.scenario.output_type</note>
+        <jms:reference-file line="58">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
         <source>Scenario name</source>
         <target state="translated">Name des Szenarios</target>
         <note>key: ibexa_personalization.scenario.scenario_name</note>
+        <jms:reference-file line="26">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
         <source>Strategy</source>
         <target state="translated">Strategie</target>
         <note>key: ibexa_personalization.scenario.strategy</note>
+        <jms:reference-file line="105">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="836be051596f7132ce48db43b554e00455255fe9" resname="ibexa_personalization.scenario.trash.cancel">
         <source>No</source>
         <target state="translated">Nein</target>
         <note>key: ibexa_personalization.scenario.trash.cancel</note>
+        <jms:reference-file line="24">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+        <jms:reference-file line="37">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="c9b3d0815397004b0e39e31da4f14f8981963e62" resname="ibexa_personalization.scenario.trash.close">
         <source>Close</source>
         <target state="translated">Schließen</target>
         <note>key: ibexa_personalization.scenario.trash.close</note>
+        <jms:reference-file line="4">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="3dab96d8b22cc7a46c023b4bac3b243f638b2634" resname="ibexa_personalization.scenario.trash.confirm">
         <source>Yes</source>
         <target state="translated">Ja</target>
         <note>key: ibexa_personalization.scenario.trash.confirm</note>
+        <jms:reference-file line="20">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+        <jms:reference-file line="34">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cc0a11e4bd240e70176f949aa3a1031f1243cd76" resname="ibexa_personalization.scenario.trash.modal.message">
         <source><![CDATA[Are you sure you want to delete scenario <b>%scenarion_name%</b>?]]></source>
         <target state="translated"><![CDATA[Sind Sie sicher, dass Sie das Szenario löschen <b>%scenarion_name%</b>?]]></target>
         <note>key: ibexa_personalization.scenario.trash.modal.message</note>
+        <jms:reference-file line="13">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="ca28b20d3fb0258a224cff53a0c367de985ba706" resname="ibexa_personalization.scenario.trash.modal.message.new_scenario">
         <source>Are you sure you want to delete new scenario?</source>
         <target state="translated">Möchten Sie sicher ein neues Szenario löschen?</target>
         <note>key: ibexa_personalization.scenario.trash.modal.message.new_scenario</note>
+        <jms:reference-file line="30">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
         <source>User profile setting</source>
         <target state="translated">Benutzerprofileinstellung</target>
         <note>key: ibexa_personalization.scenario.user_profile_setting</note>
-      </trans-unit>
-      <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
-        <source>Minimum price of the recommended product</source>
-        <target state="translated">%value% Mindestpreis des empfohlenen Produkts</target>
-        <note>key: scenario.edit.exclude_minimal_item_price</note>
-      </trans-unit>
-      <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
-        <source>User attribute has different name</source>
-        <target state="translated">Benutzerattribut hat einen anderen Namen %value%</target>
-        <note>key: scenario.edit.user_attribute_name</note>
+        <jms:reference-file line="75">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
         <source>From date - to date</source>
         <target state="translated">Von Datum - bis Datum</target>
         <note>key: search.date.range</note>
+        <jms:reference-file line="29">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/form.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
         <source><![CDATA[<b>Got a question?</b> We'd love to hear from you. Send us message to support@ibexa.co and we'll get in touch with you soon.]]></source>
         <target state="translated"><![CDATA[<b>Hast du eine Frage?</b>Wir würden gerne von Ihnen hören. Senden Sie uns eine Nachricht an support@ibexa.co und wir werden uns bald mit Ihnen in Verbindung setzen.]]></target>
         <note>key: welcome.activation_status.question</note>
+        <jms:reference-file line="12">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
         <source>Your request was sent by %name% and is being processed.</source>
         <target state="translated">Ihre Anfrage wurde von %name% gesendet und wird bearbeitet.</target>
         <note>key: welcome.activation_status.subtitle</note>
+        <jms:reference-file line="9">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
         <source>Activation status</source>
         <target state="translated">Aktivierungsstatus</target>
         <note>key: welcome.activation_status.title</note>
+        <jms:reference-file line="7">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
         <source>Please fill in the form to send in your request to activate Ibexa Personalization services. Please be advised that you need to have an active Ibexa DXP Subscription before you can activate the services.</source>
         <target state="translated">Bitte füllen Sie das Formular aus, um Ihre Anfrage zur Aktivierung der Ibexa Personalisierungsdienste einzusenden. Bitte beachten Sie, dass Sie ein aktives Ibexa DXP-Abonnement benötigen, bevor Sie die Dienste aktivieren können.</target>
         <note>key: welcome.form.subtitle</note>
-      </trans-unit>
-      <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
-        <source><![CDATA[I have read and agree to the <a class='ibexa-welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
-        <target state="translated"><![CDATA[Ich habe die <a class='ez-welcome-content__show-modal-button' href='#'> Allgemeinen Geschäftsbedingungen gelesen und bin damit einverstanden. </a>]]></target>
-        <note>key: welcome.form.tems_accept</note>
+        <jms:reference-file line="17">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
         <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
         <target state="translated">Wenn Sie diese Bedingungen im Namen einer anderen Person, eines anderen Unternehmens oder einer anderen juristischen Person akzeptieren. Sie versichern und garantieren, dass Sie die volle Befugnis haben, diese Person, Firma oder juristische Person an diese Bedingungen zu binden.</target>
         <note>key: welcome.form.tems_accept_description</note>
+        <jms:reference-file line="14">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/form_fields.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
         <source>Request for account activation</source>
         <target state="translated">Antrag auf Kontoaktivierung</target>
         <note>key: welcome.form.title</note>
+        <jms:reference-file line="15">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>

@@ -61,6 +61,11 @@
         <target state="translated">Sektion '%name%' erstellt.</target>
         <note>key: section.create.success</note>
       </trans-unit>
+      <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete">
+        <source>Delete Section</source>
+        <target state="translated">Sektion löschen</target>
+        <note>key: section.delete</note>
+      </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
         <source>Section '%name%' removed.</source>
         <target state="translated">Sektion '%name%' entfernt.</target>
@@ -81,6 +86,11 @@
         <target state="translated">Bezeichner</target>
         <note>key: section.identifier</note>
       </trans-unit>
+      <trans-unit id="105a971e4f7e75ad6066301cedc90bd4acf0ae12" resname="section.information.header">
+        <source>Section information</source>
+        <target state="translated">Sektion Informationen</target>
+        <note>key: section.information.header</note>
+      </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
         <source>Sections</source>
         <target state="translated">Sektionen</target>
@@ -90,6 +100,11 @@
         <source>Sections</source>
         <target state="translated">Sektionen</target>
         <note>key: section.list.title</note>
+      </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete the Section(s)?</source>
+        <target state="translated">Möchten Sie die Sektion(en) löschen?</target>
+        <note>key: section.modal.message</note>
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
         <source>Name</source>

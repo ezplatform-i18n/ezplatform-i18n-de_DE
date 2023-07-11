@@ -171,11 +171,6 @@
         <target state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelation.content_type</note>
       </trans-unit>
-      <trans-unit id="79f0c6856a30e0436b61aa28cfc859df8289edfb" resname="ezobjectrelation.created">
-        <source>Created</source>
-        <target state="translated">Erstellt</target>
-        <note>key: ezobjectrelation.created</note>
-      </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
         <target state="translated">Name</target>
@@ -185,6 +180,11 @@
         <source>Single relation</source>
         <target state="translated">Einfache Verknüpfung</target>
         <note>key: ezobjectrelation.single_relation</note>
+      </trans-unit>
+      <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
+        <source>Version created</source>
+        <target state="translated">Version erstellt</target>
+        <note>key: ezobjectrelation.version_created</note>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
         <source>Content Type</source>

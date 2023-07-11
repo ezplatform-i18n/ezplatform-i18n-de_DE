@@ -16,11 +16,6 @@
         <target state="translated">Die Vorschau konnte nicht geladen werden. Diese Vorschauseite ist auf einer anderen Domain, die nicht für den Page Builder konfiguriert wurde.</target>
         <note>key: preview.could.not.be.loaded</note>
       </trans-unit>
-      <trans-unit id="a89fa23dda796749c6bb7c0290ee22ae4a731c23" resname="you.can.go.back.to.previous.page">
-        <source><![CDATA[You can go back to the previous website or to <a class="ibexa-error-screen__link">the last page you visited.</a>]]></source>
-        <target state="translated"><![CDATA[Sie können zur vorherigen Website oder zur <a class="ez-error-screen__link"> der zuletzt besuchten Seite </a> zurückkehren]]></target>
-        <note>key: you.can.go.back.to.previous.page</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

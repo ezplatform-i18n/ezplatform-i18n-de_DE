@@ -17,7 +17,7 @@
         <note>key: content__sidebar_right__copy_subtree</note>
       </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
-        <source>Create content</source>
+        <source>Create</source>
         <target state="translated">Erstellen</target>
         <note>key: content__sidebar_right__create</note>
       </trans-unit>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="bbf7b43821e5ac0ce57d977a3ce156baf9a9d7b7" resname="content__sidebar_right__reveal">
         <source>Reveal</source>
-        <target state="translated">Verraten</target>
+        <target state="translated">Einblenden</target>
         <note>key: content__sidebar_right__reveal</note>
       </trans-unit>
       <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
@@ -156,11 +156,6 @@
         <target state="translated">Speichern</target>
         <note>key: language_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="d24d01151cf9ba69e38be735778da00850cea694" resname="main__admin">
-        <source>Admin</source>
-        <target state="translated">Admin</target>
-        <note>key: main__admin</note>
-      </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
         <target state="translated">Inhaltstypen</target>
@@ -210,6 +205,11 @@
         <source>Media</source>
         <target state="translated">Medien</target>
         <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+        <source>Admin</source>
+        <target state="translated">Admin</target>
+        <note>key: main_admin</note>
       </trans-unit>
       <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -381,10 +381,10 @@
         <target state="translated">Speichern</target>
         <note>key: url_wildcard_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password">
-        <source>Change password</source>
-        <target state="translated">Passwort ändern</target>
-        <note>key: user__change_password</note>
+      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
+        <source>Bookmarks</source>
+        <target state="translated">Lesezeichen</target>
+        <note>key: user__bookmark</note>
       </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>

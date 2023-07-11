@@ -32,7 +32,7 @@
         <note>key: form_builder.attribute.button.action.message</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
-        <source>There are no fields in this form.</source>
+        <source>There are no fields in this form. Create your form.</source>
         <target state="translated">Dieses Formular verfügt über keine Felder. Erstellen Sie Ihr Formular.</target>
         <note>key: no.fields.in.form</note>
       </trans-unit>

@@ -21,6 +21,11 @@
         <target state="translated">Sprache '%name%' erstellt.</target>
         <note>key: language.create.success</note>
       </trans-unit>
+      <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
+        <source>Delete language</source>
+        <target state="translated">Sprache löschen</target>
+        <note>key: language.delete</note>
+      </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
         <source>Language '%name%' removed.</source>
         <target state="translated">Sprache '%name%' entfernt.</target>
@@ -92,8 +97,8 @@
         <note>key: language.name.label</note>
       </trans-unit>
       <trans-unit id="8e4642a0c879921e8bf31752abc577c4bf8d098b" resname="language.new">
-        <source>Create</source>
-        <target state="translated">Erstellen Sie eine neue Sprache</target>
+        <source>Create a new language</source>
+        <target state="translated">Neue Sprache anlegen</target>
         <note>key: language.new</note>
       </trans-unit>
       <trans-unit id="ed7e6b485737184b494f399ea010f537c9a741f5" resname="language.new.title">

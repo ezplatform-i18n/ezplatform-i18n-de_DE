@@ -6,8 +6,13 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="64c5c95d125dba2fe988e587edf8586decebae5a" resname="content.field_type.ezgmaplocation.locate_me">
+        <source>Locate me</source>
+        <target state="translated">Mich lokalisieren</target>
+        <note>key: content.field_type.ezgmaplocation.locate_me</note>
+      </trans-unit>
       <trans-unit id="6a6094a8406a207e85ac5523d0fa582b0e62b45e" resname="content.field_type.ezimage.delete">
-        <source>Delete</source>
+        <source>Delete image</source>
         <target state="translated">Bild löschen</target>
         <note>key: content.field_type.ezimage.delete</note>
       </trans-unit>
@@ -27,12 +32,12 @@
         <note>key: content.field_type.ezimageasset.img_alt</note>
       </trans-unit>
       <trans-unit id="bdf413a5b83f6299a56d72a472afd24ab790bab1" resname="content.field_type.ezmedia.delete">
-        <source>Delete</source>
+        <source>Delete media</source>
         <target state="translated">Medien löschen</target>
         <note>key: content.field_type.ezmedia.delete</note>
       </trans-unit>
       <trans-unit id="b08e08e950b34f4bc8438fe4198b099434d91d16" resname="content.field_type.ezmedia.download">
-        <source>Download</source>
+        <source>Download media</source>
         <target state="translated">Medien herunterladen</target>
         <note>key: content.field_type.ezmedia.download</note>
       </trans-unit>
@@ -47,22 +52,42 @@
         <note>key: ezbinaryfile.action.download</note>
       </trans-unit>
       <trans-unit id="936018db97b7f60296d65482bc41f138e787b5c9" resname="ezbinaryfile.action.remove">
-        <source>Delete</source>
+        <source>Remove</source>
         <target state="translated">Entfernen</target>
         <note>key: ezbinaryfile.action.remove</note>
+      </trans-unit>
+      <trans-unit id="b388b6cf9e8d44856fed11bc8ff3f4decb177449" resname="ezgmaplocation.action.search">
+        <source>Search</source>
+        <target state="translated">Suche</target>
+        <note>key: ezgmaplocation.action.search</note>
       </trans-unit>
       <trans-unit id="8743253091e5a5798966bae8d2dc65682bffa0de" resname="ezobjectrelation.helper">
         <source>Stores a Relation to a Content item.</source>
         <target state="translated">Speichert eine Beziehung zu einem Content-Element.</target>
         <note>key: ezobjectrelation.helper</note>
       </trans-unit>
+      <trans-unit id="7df0c551bbd003f5a7d37ebe3434bce08ade074c" resname="ezobjectrelationlist.add_relation">
+        <source>Add relations</source>
+        <target state="translated">Beziehungen hinzufügen</target>
+        <note>key: ezobjectrelationlist.add_relation</note>
+      </trans-unit>
+      <trans-unit id="9a8153d976ff4a6805e00fa7945d153f01bc61a8" resname="ezobjectrelationlist.cta.limit.multi">
+        <source>Set up multiple Relations with one or several Content items</source>
+        <target state="translated">Mehrere Beziehungen zu einem oder mehreren Inhaltselementen einrichten</target>
+        <note>key: ezobjectrelationlist.cta.limit.multi</note>
+      </trans-unit>
+      <trans-unit id="6589b9cece0e96f6430a994e1b4e9db1ee5f8139" resname="ezobjectrelationlist.cta.limit.single">
+        <source>Set up a Relation with one Content item</source>
+        <target state="translated">Beziehung zu einem Inhaltselement einrichten</target>
+        <note>key: ezobjectrelationlist.cta.limit.single</note>
+      </trans-unit>
       <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
-        <source>Select Item</source>
-        <target state="translated">Inhalt auswählen</target>
+        <source>Select content</source>
+        <target state="translated">Inhaltselement auswählen</target>
         <note>key: ezobjectrelationlist.cta.select</note>
       </trans-unit>
       <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
-        <source>Delete</source>
+        <source>Delete selected relation(s)</source>
         <target state="translated">Ausgewählte Beziehung(en) löschen</target>
         <note>key: ezobjectrelationlist.delete_selected_relations</note>
       </trans-unit>
@@ -70,6 +95,16 @@
         <source>Stores Relations to other Content items.</source>
         <target state="translated">Speichert Beziehungen zu anderen Inhaltselementen.</target>
         <note>key: ezobjectrelationlist.helper</note>
+      </trans-unit>
+      <trans-unit id="91cee9d11eeed40768d4e5270d91cd5165f4562f" resname="ezobjectrelationlist.limit">
+        <source>(max. %limit%)</source>
+        <target state="translated">(max. %limit%)</target>
+        <note>key: ezobjectrelationlist.limit</note>
+      </trans-unit>
+      <trans-unit id="4ab30b13084b6d6bff3b8fd7dc9ab5879b35097c" resname="ezobjectrelationlist.relations">
+        <source>Relations</source>
+        <target state="translated">Verknüpfungen</target>
+        <note>key: ezobjectrelationlist.relations</note>
       </trans-unit>
       <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type">
         <source>Content Type</source>
@@ -92,7 +127,7 @@
         <note>key: ezobjectrelationlist.table.row.order</note>
       </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
-        <source>Drag and drop file</source>
+        <source>Drag your files to the browser window or select them</source>
         <target state="translated">Ziehen Sie Ihre Dateien in das Browserfenster oder wählen Sie sie aus</target>
         <note>key: fieldtype.binary_base.drag_drop</note>
       </trans-unit>
@@ -107,14 +142,24 @@
         <note>key: fieldtype.binary_base.upload_file</note>
       </trans-unit>
       <trans-unit id="c91345901123a50c2a42dcf9f70966192a9d76ca" resname="fieldtype.ezimageasset.delete">
-        <source>Delete</source>
+        <source>Delete image</source>
         <target state="translated">Bild löschen</target>
         <note>key: fieldtype.ezimageasset.delete</note>
       </trans-unit>
+      <trans-unit id="44b5dc8270a7494f1c46883bc7fbc31f45789027" resname="fieldtype.ezimageasset.open">
+        <source>Open</source>
+        <target state="translated">Öffnen</target>
+        <note>key: fieldtype.ezimageasset.open</note>
+      </trans-unit>
       <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
-        <source>Select from library</source>
+        <source>Select from your Repository</source>
         <target state="translated">Wählen Sie aus Ihrem Repository</target>
         <note>key: fieldtype.ezimageasset.select.label</note>
+      </trans-unit>
+      <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
+        <source>Upload image</source>
+        <target state="translated">Bild hochladen</target>
+        <note>key: fieldtype.ezimageasset.upload.label</note>
       </trans-unit>
     </body>
   </file>

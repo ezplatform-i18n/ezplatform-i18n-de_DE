@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="956eb63580c6ccafb6dbb9f891b08417451202be" resname="image_editor">
         <source>Image Editor</source>
-        <target state="translated">Bildbearbeiter</target>
+        <target state="translated">Bildbearbeitung</target>
         <note>key: image_editor</note>
       </trans-unit>
       <trans-unit id="3a84d148e1d745c9197d33618b721e38a8de7add" resname="image_editor.actions.crop.abbreviation.height">
@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size">
         <source>Crop size</source>
-        <target state="translated">Erntegröße</target>
+        <target state="translated">Bildgröße</target>
         <note>key: image_editor.actions.crop.crop_size</note>
       </trans-unit>
       <trans-unit id="51c96b0d9b8e984c453b7a759bd7101775ff1e85" resname="image_editor.actions.crop.label">
         <source>Crop</source>
-        <target state="translated">Ernte</target>
+        <target state="translated">Zuschneiden</target>
         <note>key: image_editor.actions.crop.label</note>
       </trans-unit>
       <trans-unit id="843ae8783a9e710b7821363d582890cde2c8bfae" resname="image_editor.actions.crop.ratio">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
         <source>Adjust the focal point, crop might change its parameters</source>
-        <target state="translated">Passen Sie den Brennpunkt an, das Zuschneiden kann die Parameter ändern</target>
+        <target state="translated">Passen Sie den Fokuspunkt an, das Zuschneiden kann die Parameter ändern</target>
         <note>key: image_editor.actions.crop.warning</note>
       </trans-unit>
       <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal">
@@ -88,18 +88,13 @@
       </trans-unit>
       <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel">
         <source>Cancel</source>
-        <target state="translated">Stornieren</target>
+        <target state="translated">Abbrechen</target>
         <note>key: image_editor.cancel</note>
       </trans-unit>
       <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension">
         <source>Dimension</source>
         <target state="translated">Abmessungen</target>
         <note>key: image_editor.dimension</note>
-      </trans-unit>
-      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_image">
-        <source>Edit image</source>
-        <target state="translated">Bearbeitungsmodus</target>
-        <note>key: image_editor.edit_image</note>
       </trans-unit>
       <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo">
         <source>Redo</source>
